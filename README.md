@@ -2,33 +2,68 @@
 Hi, I'm Jeff Pegg, most people call me JPEGG.
 
 I'm a full stack developer currently specializing in React-Native, TypeScript, C#, ASP.Net Core, Sql Server
+
 #Programming Bookmarks
 - C#
+  - [(DEV) Tutorials and resources — Godot Engine (3.4) documentation in English](file:///C:/Users/jpegg/Desktop/godot_docs/community/tutorials.html#doc-community-tutorials)
   - [2D skeletons — Godot Engine (stable) documentation in English](https://docs.godotengine.org/en/stable/tutorials/animation/2d_skeletons.html)
   - [3D Movement in Godot in Only 6 Minutes - YouTube](https://www.youtube.com/watch?v=UpF7wm0186Q)
   - [Home :: Godot 3 Recipes](http://kidscancode.org/godot_recipes/3.x/)
+  - [How to Create a Character Sheet in Godot 3.2 | Player Development Series - YouTube](https://www.youtube.com/watch?v=0TZ2U8eUskA&list=PLZ-54sd-DMALS7u-0x5UwbKl7VDWcabo2)
+  - [How to Make a Functional Game Menu in Godot 3.2 | Godot UI Tutorial - YouTube](https://www.youtube.com/watch?v=p1l0M8u5EVc)
+  - [How to Use the AnimationTree Node in Godot | Godot Animation Series - YouTube](https://www.youtube.com/watch?v=KAZX4qfD06E)
+  - [Learn Game Development | Godot Tutorials](https://godottutorials.com/)
   - [Pixel Platformer Tutorial / Code Along P4 (TileMaps) - Godot Engine - YouTube](https://www.youtube.com/watch?v=-9wDi3Y08GM)
   - [Step by step — Godot Engine (stable) documentation in English](https://docs.godotengine.org/en/stable/getting_started/step_by_step/)
+  - [Tutorials and resources — Godot Engine (stable) documentation in English](https://docs.godotengine.org/en/stable/community/tutorials.html)
+- CSS
+  - [Why I use grid over flexbox for this common layout - YouTube](https://www.youtube.com/watch?v=ctHE8EXEoj8)
 - Godot
+  - [(DEV) Tutorials and resources — Godot Engine (3.4) documentation in English](file:///C:/Users/jpegg/Desktop/godot_docs/community/tutorials.html#doc-community-tutorials)
   - [2D skeletons — Godot Engine (stable) documentation in English](https://docs.godotengine.org/en/stable/tutorials/animation/2d_skeletons.html)
   - [3D Movement in Godot in Only 6 Minutes - YouTube](https://www.youtube.com/watch?v=UpF7wm0186Q)
   - [Home :: Godot 3 Recipes](http://kidscancode.org/godot_recipes/3.x/)
+  - [How to Create a Character Sheet in Godot 3.2 | Player Development Series - YouTube](https://www.youtube.com/watch?v=0TZ2U8eUskA&list=PLZ-54sd-DMALS7u-0x5UwbKl7VDWcabo2)
+  - [How to Make a Functional Game Menu in Godot 3.2 | Godot UI Tutorial - YouTube](https://www.youtube.com/watch?v=p1l0M8u5EVc)
+  - [How to Use the AnimationTree Node in Godot | Godot Animation Series - YouTube](https://www.youtube.com/watch?v=KAZX4qfD06E)
+  - [Learn Game Development | Godot Tutorials](https://godottutorials.com/)
   - [Pixel Platformer Tutorial / Code Along P4 (TileMaps) - Godot Engine - YouTube](https://www.youtube.com/watch?v=-9wDi3Y08GM)
   - [Step by step — Godot Engine (stable) documentation in English](https://docs.godotengine.org/en/stable/getting_started/step_by_step/)
+  - [Tutorials and resources — Godot Engine (stable) documentation in English](https://docs.godotengine.org/en/stable/community/tutorials.html)
 - Graphics
   - [2D skeletons — Godot Engine (stable) documentation in English](https://docs.godotengine.org/en/stable/tutorials/animation/2d_skeletons.html)
   - [3D Movement in Godot in Only 6 Minutes - YouTube](https://www.youtube.com/watch?v=UpF7wm0186Q)
   - [Pixel Platformer Tutorial / Code Along P4 (TileMaps) - Godot Engine - YouTube](https://www.youtube.com/watch?v=-9wDi3Y08GM)
   - [Step by step — Godot Engine (stable) documentation in English](https://docs.godotengine.org/en/stable/getting_started/step_by_step/)
+- GraphQL
+  - [GraphQL in .NET: GraphQL queries](https://www.c-sharpcorner.com/article/graphql-in-net-graphql-queries/)
+- HTML
+  - [html to JSX - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=riazxrazor.html-to-jsx)
+- React
+  - [ES7+ React/Redux/React-Native snippets - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+  - [React Documentation - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=avraammavridis.vsc-react-documentation)
+  - [The React TypeScript Cheatsheet – How To Set Up Types on Hooks](https://www.freecodecamp.org/news/react-typescript-how-to-set-up-types-on-hooks/)
+- React-Native
+  - [ES7+ React/Redux/React-Native snippets - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- SASS
+  - [Why I use grid over flexbox for this common layout - YouTube](https://www.youtube.com/watch?v=ctHE8EXEoj8)
+- SCSS
+  - [Why I use grid over flexbox for this common layout - YouTube](https://www.youtube.com/watch?v=ctHE8EXEoj8)
 - Visual Studio Code
+  - [ES7+ React/Redux/React-Native snippets - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+  - [html to JSX - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=riazxrazor.html-to-jsx)
+  - [Jest Snippets - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=andys8.jest-snippets)
+  - [paste-clean-diff - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=sivasubramanyam.paste-clean-diff)
   - [Prettier - Code formatter - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode&ssr=false#overview)
+  - [React Documentation - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=avraammavridis.vsc-react-documentation)
 - Visual Studio Code Extensions
+  - [ES7+ React/Redux/React-Native snippets - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+  - [html to JSX - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=riazxrazor.html-to-jsx)
+  - [Jest Snippets - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=andys8.jest-snippets)
+  - [paste-clean-diff - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=sivasubramanyam.paste-clean-diff)
   - [Prettier - Code formatter - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode&ssr=false#overview)
+  - [React Documentation - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=avraammavridis.vsc-react-documentation)
 - YouTube Video
   - [3D Movement in Godot in Only 6 Minutes - YouTube](https://www.youtube.com/watch?v=UpF7wm0186Q)
   - [Pixel Platformer Tutorial / Code Along P4 (TileMaps) - Godot Engine - YouTube](https://www.youtube.com/watch?v=-9wDi3Y08GM)
-
-# Hobbies
-  - Taekwondo (Green Belt with Blue Stripe)
-  - Spending time with family
-  - Learning
+  - [Why I use grid over flexbox for this common layout - YouTube](https://www.youtube.com/watch?v=ctHE8EXEoj8)
