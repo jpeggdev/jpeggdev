@@ -5,7 +5,6 @@ I'm a full stack developer currently specializing in React-Native, TypeScript, C
 
 #Programming Bookmarks
 - C#
-  - [(DEV) Tutorials and resources — Godot Engine (3.4) documentation in English](file:///C:/Users/jpegg/Desktop/godot_docs/community/tutorials.html#doc-community-tutorials)
   - [2D skeletons — Godot Engine (stable) documentation in English](https://docs.godotengine.org/en/stable/tutorials/animation/2d_skeletons.html)
   - [3D Movement in Godot in Only 6 Minutes - YouTube](https://www.youtube.com/watch?v=UpF7wm0186Q)
   - [Home :: Godot 3 Recipes](http://kidscancode.org/godot_recipes/3.x/)
