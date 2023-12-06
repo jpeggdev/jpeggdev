@@ -28,10 +28,6 @@ I'm a full stack developer currently specializing in React-Native, TypeScript, C
   - [3D Movement in Godot in Only 6 Minutes - YouTube](https://www.youtube.com/watch?v=UpF7wm0186Q)
   - [Pixel Platformer Tutorial / Code Along P4 (TileMaps) - Godot Engine - YouTube](https://www.youtube.com/watch?v=-9wDi3Y08GM)
 
-    - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode&ssr=false#overview)
-    - [HTML to JSX](https://marketplace.visualstudio.com/items?itemName=riazxrazor.html-to-jsx)
-    - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-
 # Hobbies
   - Taekwondo (Green Belt with Blue Stripe)
   - Spending time with family
