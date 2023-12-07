@@ -2,9 +2,13 @@
 Hi, I'm Jeff Pegg, most people call me JPEGG.
 
 I'm a full stack developer currently specializing in React-Native, TypeScript, C#, ASP.Net Core, Sql Server
-
 #Programming Bookmarks
+- Android
+  - [Google SignIn tutorial for React Native | Medium](https://ibjects.medium.com/google-signin-tutorial-for-react-native-81a57fb67b18)
+- Article
+  - [Google SignIn tutorial for React Native | Medium](https://ibjects.medium.com/google-signin-tutorial-for-react-native-81a57fb67b18)
 - C#
+  - [(DEV) Tutorials and resources — Godot Engine (3.4) documentation in English](file:///C:/Users/jpegg/Desktop/godot_docs/community/tutorials.html#doc-community-tutorials)
   - [2D skeletons — Godot Engine (stable) documentation in English](https://docs.godotengine.org/en/stable/tutorials/animation/2d_skeletons.html)
   - [3D Movement in Godot in Only 6 Minutes - YouTube](https://www.youtube.com/watch?v=UpF7wm0186Q)
   - [Home :: Godot 3 Recipes](http://kidscancode.org/godot_recipes/3.x/)
@@ -40,10 +44,12 @@ I'm a full stack developer currently specializing in React-Native, TypeScript, C
   - [html to JSX - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=riazxrazor.html-to-jsx)
 - React
   - [ES7+ React/Redux/React-Native snippets - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+  - [Google SignIn tutorial for React Native | Medium](https://ibjects.medium.com/google-signin-tutorial-for-react-native-81a57fb67b18)
   - [React Documentation - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=avraammavridis.vsc-react-documentation)
   - [The React TypeScript Cheatsheet – How To Set Up Types on Hooks](https://www.freecodecamp.org/news/react-typescript-how-to-set-up-types-on-hooks/)
 - React-Native
   - [ES7+ React/Redux/React-Native snippets - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+  - [Google SignIn tutorial for React Native | Medium](https://ibjects.medium.com/google-signin-tutorial-for-react-native-81a57fb67b18)
 - SASS
   - [Why I use grid over flexbox for this common layout - YouTube](https://www.youtube.com/watch?v=ctHE8EXEoj8)
 - SCSS
