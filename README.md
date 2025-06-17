@@ -8,461 +8,1240 @@ A curated collection of useful development resources, tools, and references orga
 
 - **[Projects — JSON Resume](https://jsonresume.org/projects/)**
 
-#### Development → Documentation → General
+##### Development → .NET → Blazor → Documentation
 
-- **[(DEV) Tutorials and resources — Godot Engine (3.4) documentation in English](file:///C:/Users/jpegg/Desktop/godot_docs/community/tutorials.html#doc-community-tutorials)**
+- **[ASP.NET Core Blazor | Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/core/blazor/?WT.mc_id=dotnet-35129-website&view=aspnetcore-7.0)**
+  <br>*Official Microsoft Learn documentation for ASP.NET Core Blazor web framework*
 
-- **[2D skeletons — Godot Engine (stable) documentation in English](https://docs.godotengine.org/en/stable/tutorials/animation/2d_skeletons.html)**
+###### Development → .NET → Code Analysis → Serilog → Roslyn Analyzers
 
-- **[AI Smart Coder: AI-Generated Unit Tests, Code Review, Documentation, and Error Fix with ChatGPT - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Ainity.SmartAICoder)**
+- **[Suchiman/SerilogAnalyzer: Roslyn-based analysis for code using the Serilog logging library. Checks for common mistakes and usage problems.](https://github.com/Suchiman/SerilogAnalyzer)**
+  <br>*Roslyn-based analyzer tool for detecting common mistakes and usage problems in Serilog logging library code*
 
-- **[ASP.NET documentation | Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/?utm_source=aspnet-start-page&utm_campaign=vside&view=aspnetcore-6.0)**
+##### Development → .NET → Entity Framework → Tools
 
-- **[Character Movement Part 1 | Babylon.js Documentation](https://doc.babylonjs.com/guidedLearning/createAGame/characterMovePt1)**
+- **[Home · ErikEJ/EFCorePowerTools Wiki · GitHub](https://github.com/ErikEJ/EFCorePowerTools/wiki)**
+  <br>*EF Core Power Tools wiki - comprehensive documentation for Entity Framework Core productivity tools and utilities*
+
+##### Development → .NET → Entity Framework → Tutorials
+
+- **[Entity Framework 6](https://www.entityframeworktutorial.net/entityframework6/introduction.aspx)**
+  <br>*Entity Framework 6 tutorial website covering introduction and core concepts for the .NET ORM framework*
+
+##### Development → .NET → GraphQL → Tutorials
+
+- **[Learn how you can use GraphQL in .NET Core and C#](https://softchris.github.io/pages/dotnet-graphql.html#resources)**
+  <br>*Tutorial on implementing GraphQL in .NET Core and C# applications with practical examples and resources*
+
+##### Development → .NET → Serilog → Configuration
+
+- **[AppSettings · serilog/serilog Wiki · GitHub](https://github.com/serilog/serilog/wiki/AppSettings)**
+  <br>*Serilog configuration documentation for AppSettings in .NET applications*
+
+##### Development → .NET → SignalR → WebForms Integration
+
+- **[visual studio 2010 - Can SignalR be used with asp.net WebForms? - Stack Overflow](https://stackoverflow.com/questions/18143599/can-signalr-be-used-with-asp-net-webforms)**
+  <br>*Stack Overflow question about using SignalR with ASP.NET WebForms in Visual Studio 2010*
+
+#### Development → .NET → Updates
+
+- **[What's new in .NET 8 | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8)**
+  <br>*Official Microsoft documentation covering new features, improvements, and changes in .NET 8*
+
+##### Development → .NET → Visual Studio → Productivity
+
+- **[Productivity tips for .NET developers - Visual Studio (Windows) | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/ide/csharp-developer-productivity?view=vs-2022&utm_source=VisualStudio&utm_medium=aspnet-getstarted&utm_campaign=VisualStudio)**
+  <br>*Microsoft Learn documentation covering productivity tips and features for .NET developers using Visual Studio on Windows*
+
+###### Development → 3D Graphics → Blender → Geometry Nodes → Tutorials
+
+- **[PacktPublishing/Blender-Geometry-Nodes-for-Beginners---Procedural-Bridge-Generator: This is the code repository for Blender Geometry Nodes for Beginners - Procedural Bridge Generator, published by Packt](https://github.com/PacktPublishing/Blender-Geometry-Nodes-for-Beginners---Procedural-Bridge-Generator)**
+  <br>*Packt Publishing's code repository for a Blender Geometry Nodes beginner tutorial focused on creating a procedural bridge generator*
+
+###### Development → AI → Assistants → Claude → Documentation
 
 - **[CLI usage and controls - Anthropic](https://docs.anthropic.com/en/docs/claude-code/cli-usage)**
+  <br>*Official Anthropic documentation for Claude Code CLI usage, commands, and controls*
+
+###### Development → AI → Assistants → Claude → Usage Optimization
+
+- **[Restart Claude Code for reduce tokens? : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1lcn780/restart_claude_code_for_reduce_tokens/)**
+  <br>*Reddit discussion about restarting Claude Code to reduce token usage and optimize performance*
+
+##### Development → AI → Claude → Tutorials
+
+- **[Tutorials - Anthropic](https://docs.anthropic.com/en/docs/claude-code/tutorials)**
+  <br>*Anthropic's official Claude Code tutorials and documentation for learning how to use Claude's development features*
+
+##### Development → AI → Code Generation → VS Code Extensions
+
+- **[AI Smart Coder: AI-Generated Unit Tests, Code Review, Documentation, and Error Fix with ChatGPT - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Ainity.SmartAICoder)**
+  <br>*VS Code extension for AI-powered development tasks including unit test generation, code review, documentation creation, and error fixing using ChatGPT*
+
+###### Development → AI → Game AI → Chess → JavaScript
+
+- **[chess-ai/chess.js at main · zeyu2001/chess-ai](https://github.com/zeyu2001/chess-ai/blob/main/js/chess.js)**
+  <br>*JavaScript implementation of chess AI with game logic and algorithms for computer chess playing*
+
+##### Development → AI → Image Generation → OpenAI Integration
+
+- **[SureScaleAI/openai-gpt-image-mcp: A Model Context Protocol (MCP) tool server for OpenAI's GPT-4o/gpt-image-1 image generation and editing APIs.](https://github.com/SureScaleAI/openai-gpt-image-mcp)**
+  <br>*MCP server for OpenAI's GPT-4o image generation and editing APIs, providing Model Context Protocol integration for AI image creation tools*
+
+##### Development → AI → Image Generation → Replicate Integration
+
+- **[awkoy/replicate-flux-mcp: MCP for Replicate Flux Model - A powerful tool for generating customized images and SVG assets that match specific coding vibes and aesthetic styles. Streamline your visual asset creation process with AI-powered design generation tailored for developers.](https://github.com/awkoy/replicate-flux-mcp)**
+  <br>*MCP server for Replicate's Flux model that generates customized images and SVG assets for developers, providing AI-powered design generation with coding-specific aesthetic styles*
+
+###### Development → AI → Image Generation → Stable Diffusion → AWS
+
+- **[What is Stable Diffusion? - Stable Diffusion AI Explained - AWS](https://aws.amazon.com/what-is/stable-diffusion/)**
+  <br>*AWS documentation explaining Stable Diffusion AI image generation technology, its applications, and implementation on Amazon Web Services*
+
+##### Development → AI → MCP → API Integration
+
+- **[GongRzhe/APIWeaver: A FastMCP server that dynamically creates MCP (Model Context Protocol) servers from web API configurations. This allows you to easily integrate any REST API, GraphQL endpoint, or web service into an MCP-compatible tool that can be used by AI assistants like Claude.](https://github.com/GongRzhe/APIWeaver)**
+  <br>*FastMCP server that dynamically creates MCP servers from web API configurations, enabling integration of REST APIs, GraphQL endpoints, and web services into MCP-compatible tools for AI assistants like Claude*
+
+##### Development → AI → MCP → Documentation Tools
+
+- **[upstash/context7: Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors](https://github.com/upstash/context7)**
+  <br>*Context7 MCP Server by Upstash - provides up-to-date code documentation for LLMs and AI code editors through the Model Context Protocol*
+
+##### Development → AI → MCP → Official Servers
+
+- **[modelcontextprotocol/servers: Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#%EF%B8%8F-official-integrations)**
+  <br>*Official GitHub repository containing Model Context Protocol (MCP) servers and integrations for AI development*
+
+###### Development → AI → MCP → SDK → TypeScript
+
+- **[typescript-sdk/README.md at main · modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk/blob/main/README.md)**
+  <br>*TypeScript SDK documentation for Model Context Protocol (MCP) - a protocol for integrating AI models with external tools and data sources*
+
+###### Development → AI → MCP → Server Management → Installation
+
+- **[semcp/mcp-sinstaller: A MCP Server for installing and containerizing other MCP servers](https://github.com/semcp/mcp-sinstaller)**
+  <br>*MCP Server for installing and containerizing other MCP servers - a server management tool for the Model Context Protocol ecosystem*
+
+###### Development → AI → MCP → Servers → Blender
+
+- **[ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)**
+  <br>*GitHub repository for a Model Context Protocol (MCP) server that enables AI assistants to interact with and control Blender 3D modeling software*
+
+###### Development → AI → MCP → Servers → Database
+
+- **[FreePeak/db-mcp-server: A powerful multi-database server implementing the Model Context Protocol (MCP) to provide AI assistants with structured access to databases.](https://github.com/freepeak/db-mcp-server)**
+  <br>*Multi-database server implementing Model Context Protocol (MCP) for AI assistant database integration*
+
+- **[googleapis/genai-toolbox: MCP Toolbox for Databases is an open source MCP server for databases.](https://github.com/googleapis/genai-toolbox?tab=readme-ov-file)**
+  <br>*Open source MCP (Model Context Protocol) server specifically designed for database integration, part of Google's AI toolbox*
+
+###### Development → AI → MCP → Servers → Database → MariaDB
+
+- **[mcp-server-mariadb/src/mcp_server_mariadb/server.py at main · abel9851/mcp-server-mariadb](https://github.com/abel9851/mcp-server-mariadb/blob/main/src/mcp_server_mariadb/server.py)**
+  <br>*MCP server implementation for MariaDB database integration, providing AI assistants with MariaDB connectivity capabilities*
+
+###### Development → AI → MCP → Servers → Database → MySQL
+
+- **[benborla/mcp-server-mysql: A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.](https://github.com/benborla/mcp-server-mysql?tab=readme-ov-file#troubleshooting)**
+  <br>*A Model Context Protocol server that provides read-only access to MySQL databases, enabling LLMs to inspect database schemas and execute read-only queries*
+
+- **[mysql_mcp_server/README.md at main · designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server/blob/main/README.md)**
+  <br>*README documentation for mysql_mcp_server - a Model Context Protocol server that enables Claude and other AI assistants to interact with MySQL databases*
+
+###### Development → AI → MCP → Servers → Docker
+
+- **[ckreiling/mcp-server-docker: MCP server for Docker](https://github.com/ckreiling/mcp-server-docker)**
+  <br>*MCP server implementation for Docker container management and integration*
+
+###### Development → AI → MCP → Servers → Library Integration
+
+- **[8enSmith/mcp-open-library: A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.](https://github.com/8enSmith/mcp-open-library)**
+  <br>*MCP server for Internet Archive's Open Library API enabling AI assistants to search books and authors*
+
+###### Development → AI → MCP → Servers → Microsoft Teams
+
+- **[InditexTech/mcp-teams-server: An MCP (Model Context Protocol) server implementation for Microsoft Teams integration, providing capabilities to read messages, create messages, reply to messages, mention members.](https://github.com/InditexTech/mcp-teams-server)**
+  <br>*MCP server implementation for Microsoft Teams integration providing message reading, creation, replies, and member mentions*
+
+###### Development → AI → MCP → Servers → Video Conferencing
+
+- **[Prathamesh0901/zoom-mcp-server](https://github.com/Prathamesh0901/zoom-mcp-server/tree/main)**
+  <br>*MCP server implementation for Zoom integration - enables AI assistants to interact with Zoom video conferencing platform*
+
+##### Development → AI → MCP → Testing
+
+- **[MCPJam/inspector: Testing and Debugging MCPs](https://github.com/MCPJam/inspector?tab=readme-ov-file#%EF%B8%8F-our-roadmap)**
+  <br>*GitHub repository for MCPJam Inspector - a tool for testing and debugging Model Context Protocol (MCP) servers with development roadmap*
+
+- **[MCPJam/inspector: Testing and Debugging MCPs](https://github.com/MCPJam/inspector)**
+  <br>*GitHub repository for MCPJam/inspector - a tool for testing and debugging Model Context Protocol (MCP) implementations*
+
+##### Development → AI → MCP → Tutorials
+
+- **[Model Context Protocol (MCP), clearly explained (why it matters) - YouTube](https://www.youtube.com/watch?v=7j_NE6Pjv-E)**
+  <br>*YouTube video explaining the Model Context Protocol (MCP) and its importance in AI development*
+
+##### Development → AI → MCP → Unity Integration
+
+- **[CoderGamester/mcp-unity: MCP Server to integrate Unity Editor game engine with different AI Model clients (e.g. Claude Desktop, Windsurf, Cursor)](https://github.com/CoderGamester/mcp-unity?tab=readme-ov-file)**
+  <br>*MCP Server for integrating Unity Editor game engine with AI model clients like Claude Desktop, Windsurf, and Cursor*
+
+- **[quazaai/UnityMCPIntegration: Enable AI Agents to Control Unity](https://github.com/quazaai/UnityMCPIntegration)**
+  <br>*GitHub repository for UnityMCPIntegration that enables AI agents to control Unity game engine through Model Context Protocol*
+
+##### Development → AI → MCP → WSL Setup
+
+- **[Getting MCP Server Working with Claude Desktop in WSL - Scott Spence](https://scottspence.com/posts/getting-mcp-server-working-with-claude-desktop-in-wsl)**
+  <br>*Tutorial guide for setting up MCP (Model Context Protocol) servers to work with Claude Desktop in Windows Subsystem for Linux environment*
+
+###### Development → AI → Machine Learning → Neural Networks → Tutorials
+
+- **[Neural Networks Explained from Scratch using Python - YouTube](https://www.youtube.com/watch?v=9RN2Wr8xvro)**
+  <br>*YouTube tutorial explaining neural networks from scratch using Python programming*
+
+#### Development → AI → Meeting Tools
+
+- **[joinly-ai/joinly: Make your meetings accessible to AI Agents](https://github.com/joinly-ai/joinly)**
+  <br>*Open-source tool that makes meetings accessible to AI agents by providing structured meeting data and integration capabilities*
+
+##### Development → AI → Memory Systems → Installation
+
+- **[basic-memory/llms-install.md at main · basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory/blob/main/llms-install.md)**
+  <br>*Installation guide for basic-memory, an LLM memory system for managing context and conversations*
+
+##### Development → AI → Model Context Protocol → Community
+
+- **[modelcontextprotocol · Discussions · GitHub](https://github.com/orgs/modelcontextprotocol/discussions?page=2)**
+  <br>*GitHub discussions page for the Model Context Protocol organization, showing community conversations and Q&A about MCP development and implementation*
+
+##### Development → AI → Neural Networks → C# Programming
+
+- **[C# Artificial Intelligence (AI) Programming: A Basic Object Oriented (OOP) Framework for Neural Networks](https://www.c-sharpcorner.com/article/C-Sharp-artificial-intelligence-ai-programming-a-basic-object/)**
+  <br>*Tutorial on implementing neural networks in C# using object-oriented programming principles, providing a basic AI framework for .NET developers*
+
+##### Development → AI → Programming → LLM Agents
+
+- **[Programming with LLM Agents in 2025 - YouTube](https://www.youtube.com/watch?v=WKF__cJTxvg)**
+  <br>*YouTube video about programming with Large Language Model (LLM) agents in 2025, likely covering development patterns, tools, and best practices for building applications with AI agents*
+
+##### Development → AI → Programming → Pair Programming
+
+- **[After 6 months of daily AI pair programming, here's what actually works (and what's just hype) : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1l1uea1/after_6_months_of_daily_ai_pair_programming_heres/)**
+  <br>*Real-world experience report on AI pair programming effectiveness after 6 months of daily use, discussing what actually works versus marketing hype*
+
+#### Development → AI → Project Management
+
+- **[agentic-project-management/README.md at main · sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management/blob/main/README.md)**
+  <br>*GitHub repository for an agentic (AI-powered) project management system*
+
+##### Development → AI → Prompt Engineering → Resources
+
+- **[Prompt Library - Anthropic](https://docs.anthropic.com/en/resources/prompt-library/library)**
+  <br>*Anthropic's comprehensive prompt library containing curated examples and templates for effective AI interactions*
+
+##### Development → AI → Task Management → Browser Extensions
+
+- **[DevDreed/claude-task-master-extension](https://github.com/DevDreed/claude-task-master-extension)**
+  <br>*GitHub repository for a Claude-powered task management browser extension*
+
+##### Development → AI → Task Management → IDE Integration
+
+- **[eyaltoledano/claude-task-master: An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.](https://github.com/eyaltoledano/claude-task-master/tree/main)**
+  <br>*AI-powered task management system that integrates with popular development environments like Cursor, Lovable, Windsurf, and Roo for enhanced coding workflows*
+
+#### Development → APIs → Design Guidelines
+
+- **[RestCheatSheet/api-cheat-sheet: API Design Guidelines and Best Practices Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-sheet#api-design-cheat-sheet)**
+  <br>*GitHub repository containing comprehensive API design guidelines, best practices, and cheat sheet for REST API development*
+
+#### Development → ASP.NET Core → Documentation
+
+- **[ASP.NET documentation | Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/?utm_source=aspnet-start-page&utm_campaign=vside&view=aspnetcore-6.0)**
+  <br>*Official Microsoft documentation for ASP.NET Core web framework, providing comprehensive guides and reference materials*
+
+#### Development → ASP.NET Core → Fundamentals
+
+- **[ASP.NET Core fundamentals overview | Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-7.0&tabs=windows)**
+  <br>*Microsoft's official documentation covering ASP.NET Core fundamentals and core concepts*
+
+#### Development → ASP.NET Core → Tag Helpers
+
+- **[Component Tag Helper in ASP.NET Core | Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/built-in/component-tag-helper?view=aspnetcore-8.0)**
+  <br>*Microsoft's official documentation for Component Tag Helper in ASP.NET Core, explaining how to use tag helpers for component rendering in MVC views*
+
+#### Development → Backend → Convex
+
+- **[How Convex Works](https://stack.convex.dev/how-convex-works)**
+  <br>*Technical documentation explaining how Convex works as a backend-as-a-service platform for developers*
+
+##### Development → Build Tools → Gradle → Compatibility
 
 - **[Compatibility Matrix](https://docs.gradle.org/current/userguide/compatibility.html)**
+  <br>*Official Gradle documentation covering version compatibility matrix between Gradle, Java, Kotlin, Groovy, and Android Gradle Plugin versions*
 
-- **[Creating and publishing scoped public packages | npm Docs](https://docs.npmjs.com/creating-and-publishing-scoped-public-packages)**
+##### Development → C# → Async Programming → Tutorials
 
-- **[Epic C++ Coding Standard for Unreal Engine | Unreal Engine 5.3 Documentation](https://docs.unrealengine.com/5.3/en-US/epic-cplusplus-coding-standard-for-unreal-engine/)**
+- **[Writing async/await from scratch in C# with Stephen Toub - YouTube](https://www.youtube.com/watch?v=R-z2Hv-7nxk)**
+  <br>*YouTube tutorial by Stephen Toub demonstrating how to implement async/await functionality from scratch in C#*
+
+#### Development → C# → Functional Programming
+
+- **[vkhorikov/CSharpFunctionalExtensions: Functional extensions for C#](https://github.com/vkhorikov/CSharpFunctionalExtensions)**
+  <br>*C# library providing functional programming extensions including Result types, Maybe types, and other functional programming utilities*
+
+##### Development → C# → Game Development → Raylib
+
+- **[ChrisDill/Raylib-cs: C# bindings for raylib, a simple and easy-to-use library to learn videogames programming](https://github.com/ChrisDill/Raylib-cs)**
+  <br>*C# bindings for raylib, a simple and easy-to-use library for learning video game programming*
+
+- **[jpeggdev/ElisSong: A C# game developed using Raylib-cs](https://github.com/jpeggdev/ElisSong)**
+  <br>*A C# game development project built using Raylib-cs, a C# binding for the Raylib game programming library*
+
+##### Development → C# → Language Reference → Tuple Types
+
+- **[Tuple types - C# reference - C# | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples)**
+  <br>*Official Microsoft documentation for C# tuple types, covering value tuples syntax, usage, and language reference*
+
+- **[Tuple types - C# reference - C# | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples#code-try-2)**
+  <br>*Official Microsoft documentation on C# tuple types, covering value tuples syntax and usage*
+
+#### Development → C++ → GUI Libraries
+
+- **[ocornut/imgui: Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies](https://github.com/ocornut/imgui/)**
+  <br>*Dear ImGui is a bloat-free immediate mode GUI library for C++ with minimal dependencies, designed for creating developer tools and game interfaces*
+
+#### Development → CSS → Frameworks
+
+- **[Pico CSS • Minimal CSS Framework for semantic HTML](https://picocss.com/)**
+  <br>*Pico CSS is a minimal CSS framework designed for semantic HTML, providing clean styling with minimal code overhead*
+
+#### Development → Code Analysis → Dependency Visualization
+
+- **[gabotechs/dep-tree: tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.](https://github.com/gabotechs/dep-tree)**
+  <br>*A tool for visualizing code dependencies in a 3D force-directed graph to help developers maintain clean, decoupled codebases and understand code entropy*
+
+#### Development → Computer Science → Interview Preparation
+
+- **[jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university/)**
+  <br>*Comprehensive computer science study plan and curriculum for software engineering interview preparation, covering algorithms, data structures, system design, and coding practice*
+
+##### Development → Database → Entity Framework → Migrations
+
+- **[Migrations in Entity Framework Core](https://www.entityframeworktutorial.net/efcore/entity-framework-core-migration.aspx)**
+  <br>*Tutorial on Entity Framework Core migrations for database schema management and updates*
+
+##### Development → Database → Entity Framework Core → Tutorials
+
+- **[Entity Framework Core Tutorials](https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx)**
+  <br>*Comprehensive tutorial resource for Entity Framework Core, Microsoft's object-database mapper for .NET applications*
+
+- **[Learn Entity Framework Core - EF Core Tutorial](https://www.learnentityframeworkcore.com/)**
+  <br>*Comprehensive tutorial resource for learning Entity Framework Core, Microsoft's object-database mapper for .NET applications*
+
+##### Development → Database → SQL Server → Constraints
+
+- **[Query to get all foreign key constraints in SQL Server 2000 - Stack Overflow](https://stackoverflow.com/questions/831589/query-to-get-all-foreign-key-constraints-in-sql-server-2000)**
+  <br>*Stack Overflow Q&A about querying foreign key constraints in SQL Server 2000*
+
+###### Development → DevOps → CI-CD → GitHub Actions → React Native
+
+- **[5+ Github Actions to Automate Your React Native Workflow](https://elazizi.com/posts/5-github-actions-to-automate-your-react-native-workflow/)**
+  <br>*Guide covering 5+ GitHub Actions workflows specifically for automating React Native development processes including builds, testing, and deployment*
+
+###### Development → DevOps → CI-CD → GitHub Actions → Workflows Reference
+
+- **[Github Action workflows | A list of all the Github Action workflows that come with the starter and how to use them.](https://starter.obytes.com/ci-cd/workflows-references/#%EF%B8%8F-new-app-version)**
+  <br>*Documentation for GitHub Action workflows in a starter project, including workflow references and usage guides for CI/CD processes*
+
+##### Development → DevOps → Environment Management → Dependency Checking
+
+- **[infinitered/solidarity: Solidarity is an environment checker for project dependencies across multiple machines.](https://github.com/infinitered/solidarity)**
+  <br>*Solidarity is a tool for checking project dependencies and development environment consistency across multiple machines, ensuring all team members have the required tools and versions installed.*
+
+#### Development → Documentation → General
 
 - **[Harvest API V2 Documentation](https://help.getharvest.com/api-v2/)**
 
-- **[Install Expo modules - Expo Documentation](https://docs.expo.dev/bare/installing-expo-modules/)**
-
 - **[JeffPegg_Resume.docx - Google Docs](https://docs.google.com/document/d/1YBpRGD_xsFob4GwgovE79RBo5F6iwiMn/edit)**
-
-- **[Local app development - Expo Documentation](https://docs.expo.dev/guides/local-app-development/)**
-
-- **[Nodes and Scenes — Godot Engine (stable) documentation in English](https://docs.godotengine.org/en/stable/getting_started/step_by_step/nodes_and_scenes.html#nodes)**
-
-- **[Packages and modules | npm Docs](https://docs.npmjs.com/packages-and-modules)**
-
-- **[Prompt Library - Anthropic](https://docs.anthropic.com/en/resources/prompt-library/library)**
-
-- **[Reference - Expo Documentation](https://docs.expo.dev/versions/latest/)**
-
-- **[Run builds locally or on your own infrastructure - Expo Documentation](https://docs.expo.dev/build-reference/local-builds/)**
 
 - **[Satisfactory Train / Train Signal Manual :: Satisfactory Modding Documentation](https://docs.ficsit.app/satisfactory-modding/latest/CommunityResources/TrainSignalGuide.html#_intersections)**
 
-- **[Setting up the game area — Godot Engine (stable) documentation in English](https://docs.godotengine.org/en/stable/getting_started/first_3d_game/01.game_setup.html)**
+##### Development → Game Development → Assets → 2D Graphics
 
-- **[Share pre-release versions of your app - Expo Documentation](https://docs.expo.dev/guides/sharing-preview-releases/)**
+- **[2D Game Assets Store & Free - CraftPix.net](https://craftpix.net/)**
+  <br>*Online marketplace for 2D game assets including sprites, backgrounds, animations, and UI elements for game developers*
+
+#### Development → Game Development → Community
+
+- **[Home - GameDev.net](https://gamedev.net/)**
+  <br>*GameDev.net is a prominent online community and resource hub for game developers, featuring forums, tutorials, articles, and industry discussions*
+
+#### Development → Game Development → Database Systems
+
+- **[A breakthrough in game dev - SpacetimeDB 1.0 - YouTube](https://www.youtube.com/watch?v=kzDnA_EVhTU)**
+  <br>*YouTube video about SpacetimeDB 1.0, a breakthrough database system designed for game development that enables real-time multiplayer functionality and simplified backend architecture for games.*
+
+#### Development → Game Development → Design Patterns
+
+- **[Table of Contents · Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)**
+  <br>*Comprehensive guide covering programming patterns and architectural concepts specifically for game development*
+
+#### Development → Game Development → Design Philosophy
+
+- **[Introduction · Joys of Small Game Development](https://abagames.github.io/joys-of-small-game-development-en/)**
+  <br>*A guide about the philosophy and approach to developing small, focused games with emphasis on minimalism and core gameplay mechanics*
+
+##### Development → Game Development → ECS → FAQ
+
+- **[SanderMertens/ecs-faq: Frequently asked questions about Entity Component Systems](https://github.com/SanderMertens/ecs-faq)**
+  <br>*Comprehensive FAQ covering Entity Component System architecture concepts, implementation details, and common questions for game developers*
+
+##### Development → Game Development → Engine-Free → Modern Techniques
+
+- **[Making Video Games in 2025 (without an engine) - Noel Berry](https://noelberry.ca/posts/making_games_in_2025/)**
+  <br>*Blog post about modern approaches to creating video games in 2025 without using traditional game engines*
+
+##### Development → Game Development → Engines → Stride
+
+- **[Stride Game Engine - Free, Open Source C# 2D and 3D Game Engine - Stride Game Engine](https://www.stride3d.net/)**
+  <br>*Official website for Stride Game Engine, a free and open source C# 2D and 3D game development engine*
+
+##### Development → Game Development → FNA → Documentation
+
+- **[2b: Building New Games with FNA - FNA Docs](https://fna-xna.github.io/docs/2b%3A-Building-New-Games-with-FNA/)**
+  <br>*Official FNA framework documentation for building new games, providing guidance on game development with the FNA cross-platform gaming framework*
+
+##### Development → Game Development → Frameworks → Cross-Platform
+
+- **[MoonsideGames/MoonWorks: A free cross-platform game development framework.](https://github.com/MoonsideGames/MoonWorks)**
+  <br>*MoonWorks is a free cross-platform game development framework hosted on GitHub, providing tools and libraries for building games across multiple platforms.*
+
+###### Development → Game Development → Godot → AI Systems → GOAP
+
+- **[godot-goap/goap at main · viniciusgerevini/godot-goap](https://github.com/viniciusgerevini/godot-goap/tree/main/goap)**
+  <br>*Godot implementation of Goal-Oriented Action Planning (GOAP) system for AI behavior in game development*
+
+###### Development → Game Development → Godot → Animation → 2D Skeletons
+
+- **[2D skeletons — Godot Engine (stable) documentation in English](https://docs.godotengine.org/en/stable/tutorials/animation/2d_skeletons.html)**
+  <br>*Official Godot Engine documentation covering 2D skeletal animation system for character animation and rigging*
+
+###### Development → Game Development → Godot → Animation → Procedural
+
+- **[NEW Procedural Animation In Godot 4.0 - YouTube](https://www.youtube.com/watch?v=G_seJ2Yg1GA)**
+  <br>*YouTube tutorial covering procedural animation techniques in Godot 4.0 game engine*
+
+###### Development → Game Development → Godot → Animation → Tutorials
+
+- **[How to Use the AnimationTree Node in Godot | Godot Animation Series - YouTube](https://www.youtube.com/watch?v=KAZX4qfD06E)**
+  <br>*YouTube tutorial explaining how to use the AnimationTree node in Godot game engine for advanced animation control and blending*
+
+##### Development → Game Development → Godot → Assets
+
+- **[Awesome Godot 4 Bundle ++ The Ultimate World Building Assets Bundle - YouTube](https://www.youtube.com/watch?v=KAoLvsXsLsk)**
+  <br>*YouTube video showcasing a comprehensive bundle of game development assets for Godot 4, including world building tools and resources*
+
+- **[Download Godot 3D VFX & Effects collection by BUKKBEEK - itch.io](https://bukkbeek.itch.io/effectblocks/download/J3YrAeDq7fA7s3bJqSWoLTwvk234bgU7UnJgHjzb)**
+  <br>*Downloadable 3D VFX and effects collection for Godot game development by BUKKBEEK on itch.io*
+
+- **[GitHub - Jamsers/Godot-Human-For-Scale: Simple controllable character that you can use to run around in your Godot level.](https://github.com/Jamsers/Godot-Human-For-Scale)**
+  <br>*A simple, controllable human character asset for scale reference in Godot game development projects*
+
+##### Development → Game Development → Godot → Data Architecture
+
+- **[Data models - using data to create extensible, maintainable games in Godot - YouTube](https://www.youtube.com/watch?v=4vAkTHeoORk)**
+  <br>*YouTube tutorial about using data models to create extensible and maintainable games in Godot engine*
+
+##### Development → Game Development → Godot → Documentation
+
+- **[(DEV) Tutorials and resources — Godot Engine (3.4) documentation in English](file:///C:/Users/jpegg/Desktop/godot_docs/community/tutorials.html#doc-community-tutorials)**
+  <br>*Local copy of Godot Engine 3.4 documentation covering community tutorials and learning resources*
 
 - **[Step by step — Godot Engine (stable) documentation in English](https://docs.godotengine.org/en/stable/getting_started/step_by_step/)**
+  <br>*Official Godot Engine step-by-step documentation for learning game development fundamentals*
 
-- **[Tutorials - Anthropic](https://docs.anthropic.com/en/docs/claude-code/tutorials)**
+###### Development → Game Development → Godot → Documentation → Tutorials
 
 - **[Tutorials and resources — Godot Engine (stable) documentation in English](https://docs.godotengine.org/en/stable/community/tutorials.html)**
+  <br>*Official Godot Engine documentation page containing tutorials and learning resources for game development*
 
-- **[TypeScript Guide - Zustand](https://zustand.docs.pmnd.rs/guides/typescript)**
+##### Development → Game Development → Godot → Examples
 
-- **[TypeScript: Documentation - Migrating from JavaScript](https://www.typescriptlang.org/docs/handbook/migrating-from-javascript.html)**
+- **[godotengine/godot-demo-projects: Demonstration and Template Projects](https://github.com/godotengine/godot-demo-projects)**
+  <br>*Official Godot Engine demonstration and template projects repository on GitHub containing example games and project templates for learning game development*
 
-- **[TypeScript: Documentation - TypeScript for JavaScript Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)**
+###### Development → Game Development → Godot → Graphics Programming → Compute Shaders
 
-- **[TypeScript: Documentation - TypeScript Tooling in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html)**
+- **[Learn GODOT 4 Compute Shaders with RAYTRACING!! - YouTube](https://www.youtube.com/watch?v=ueUMr92GQJc)**
+  <br>*YouTube tutorial on learning GODOT 4 compute shaders with raytracing implementation*
 
-- **[TypeScript: Documentation - Using Babel with TypeScript](https://www.typescriptlang.org/docs/handbook/babel-with-typescript.html)**
+###### Development → Game Development → Godot → Graphics Programming → Raymarching
 
-- **[TypeScript: Documentation - What is a tsconfig.json](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)**
+- **[Godot 4: Raymarching, part 1 (tutorial) - YouTube](https://www.youtube.com/watch?v=EkiKPqGgIt8)**
+  <br>*Godot 4 tutorial covering raymarching graphics programming techniques for advanced 3D rendering*
+
+##### Development → Game Development → Godot → Lighting
+
+- **[Make BEAUTIFUL Games - Lighting in Godot - YouTube](https://www.youtube.com/watch?v=aRdiiWpA0AA&t=3s)**
+  <br>*YouTube tutorial about lighting techniques in Godot game engine to create beautiful games*
+
+###### Development → Game Development → Godot → Multiplayer → Steam P2P
+
+- **[Godot + Steam P2P Multiplayer - YouTube](https://www.youtube.com/watch?v=MoRl9kQb6L0)**
+  <br>*YouTube tutorial demonstrating how to implement Steam peer-to-peer networking for multiplayer functionality in Godot game engine*
+
+###### Development → Game Development → Godot → Networking → Tutorials
+
+- **[somethinglikegames/godot4-network-tutorial: The sourcecode for my godot 4 networking tutorial series](https://github.com/somethinglikegames/godot4-network-tutorial)**
+  <br>*Source code repository for a Godot 4 networking tutorial series covering multiplayer game development techniques and implementation*
+
+###### Development → Game Development → Godot → Shaders → 2D Tutorials
+
+- **[2D Practice Shaders in Godot: First Three Shaders - YouTube](https://www.youtube.com/watch?v=GLcf7O-uoIE&list=PLWit4-zdzvqLXDr1GlsFBZ-OJDcWziaP3&index=1)**
+  <br>*YouTube tutorial covering the first three 2D practice shaders in Godot game engine*
+
+###### Development → Game Development → Godot → Shaders → Resources
+
+- **[Godot Shaders - Make your games beautiful!](https://godotshaders.com/)**
+  <br>*Community-driven repository of shader resources and tutorials specifically for Godot game engine development*
+
+###### Development → Game Development → Godot → Shaders → Tutorials
+
+- **[Godot Shaders - YouTube](https://www.youtube.com/playlist?list=PLWit4-zdzvqLXDr1GlsFBZ-OJDcWziaP3)**
+  <br>*YouTube playlist dedicated to Godot shader programming tutorials and techniques*
+
+- **[Welcome to Shaderland - An introduction to shaders in Godot - YouTube](https://www.youtube.com/watch?v=nyFzPaWAzeQ&t=562s)**
+  <br>*YouTube tutorial introducing shader programming in the Godot game engine*
+
+##### Development → Game Development → Godot → Steam Integration
+
+- **[Welcome To GodotSteam - GodotSteam](https://godotsteam.com/)**
+  <br>*GodotSteam library for integrating Steam APIs and functionality into Godot game development projects*
+
+##### Development → Game Development → Godot → Tutorials
+
+- **[Learn Game Development | Godot Tutorials](https://godottutorials.com/)**
+  <br>*Godot game development learning platform with tutorials and educational content*
+
+- **[The ultimate introduction to Godot 4 - YouTube](https://www.youtube.com/watch?v=nAh_Kx5Zh5Q)**
+  <br>*YouTube tutorial providing an introduction to Godot 4 game engine for beginners*
+
+###### Development → Game Development → Godot → Tutorials → 2D Games
+
+- **[Your First 2D GAME From Zero with GODOT 4! **Vampire Survivor Style** - YouTube](https://www.youtube.com/watch?v=GwCiGixlqiU)**
+  <br>*YouTube tutorial teaching how to create a first 2D game from scratch using Godot 4, specifically in Vampire Survivor style*
+
+###### Development → Game Development → Godot → Tutorials → 2D Platformers → TileMaps
+
+- **[Pixel Platformer Tutorial / Code Along P4 (TileMaps) - Godot Engine - YouTube](https://www.youtube.com/watch?v=-9wDi3Y08GM)**
+  <br>*Godot Engine tutorial specifically covering TileMaps implementation in 2D pixel platformer games, part 4 of a comprehensive code-along series*
+
+###### Development → Game Development → Godot → Tutorials → 3D Game Development
+
+- **[Setting up the game area — Godot Engine (stable) documentation in English](https://docs.godotengine.org/en/stable/getting_started/first_3d_game/01.game_setup.html)**
+  <br>*Official Godot Engine documentation tutorial for setting up the game area in a first 3D game project*
+
+###### Development → Game Development → Godot → Tutorials → Beginner
+
+- **[Godot Basics: Getting Started with Godot - YouTube](https://www.youtube.com/watch?v=4WHO61piADU&list=PLah6faXAgguP0-ZXQGWlpfIO3jgNFTWJZ)**
+  <br>*YouTube tutorial series covering the fundamentals of getting started with the Godot game engine*
+
+- **[Start Your Game Creation Journey Today! (Godot beginner tutorial) - YouTube](https://www.youtube.com/watch?v=5V9f3MT86M8)**
+  <br>*YouTube tutorial for beginners starting their game development journey with the Godot engine*
+
+###### Development → Game Development → Godot → Tutorials → Breakout
+
+- **[[Godot Tutorial] Basic Breakout! [P1] - YouTube](https://www.youtube.com/watch?v=ntYjl_obUDo&list=PL9FzW-m48fn1iR6WL4mjXtGi8P4TaPIAp)**
+  <br>*YouTube tutorial series for creating a Breakout game in Godot game engine, part 1 of a playlist*
+
+###### Development → Game Development → Godot → Tutorials → FPS
+
+- **[Make An FPS in Godot 4 - YouTube](https://www.youtube.com/watch?v=N-jh8qc8tJs)**
+  <br>*YouTube tutorial for creating a first-person shooter game in Godot 4 engine*
+
+###### Development → Game Development → Godot → Tutorials → Movement
+
+- **[3D Movement in Godot in Only 6 Minutes - YouTube](https://www.youtube.com/watch?v=UpF7wm0186Q)**
+  <br>*YouTube tutorial demonstrating 3D character movement implementation in Godot game engine in 6 minutes*
+
+###### Development → Game Development → Godot → Tutorials → Player Systems
+
+- **[How to Create a Character Sheet in Godot 3.2 | Player Development Series - YouTube](https://www.youtube.com/watch?v=0TZ2U8eUskA&list=PLZ-54sd-DMALS7u-0x5UwbKl7VDWcabo2)**
+  <br>*YouTube tutorial on creating character sheets in Godot 3.2 for player development systems*
+
+###### Development → Game Development → Godot → Tutorials → RPG Development
+
+- **[How to Create an RPG in Godot 4 (step by step) - YouTube](https://www.youtube.com/watch?v=pBoXqW4RykE)**
+  <br>*Step-by-step YouTube tutorial for creating an RPG game in Godot 4 engine*
+
+##### Development → Game Development → Godot → UI Tutorials
+
+- **[How to Make a Functional Game Menu in Godot 3.2 | Godot UI Tutorial - YouTube](https://www.youtube.com/watch?v=p1l0M8u5EVc)**
+  <br>*YouTube tutorial demonstrating how to create functional game menus in Godot 3.2 engine*
+
+##### Development → Game Development → Godot → VFX Shaders
+
+- **[MORE VFX Shader Techniques ft. Godot - YouTube](https://www.youtube.com/watch?v=pLyp9MR6FVM)**
+  <br>*Advanced Godot VFX shader techniques tutorial covering visual effects programming for game development*
+
+#### Development → Game Development → MonoGame
+
+- **[MonoGame | MonoGame](https://monogame.net/)**
+  <br>*MonoGame is an open-source C# framework for creating cross-platform games, originally based on Microsoft's XNA Framework*
+
+##### Development → Game Development → Multiplayer → Tutorials
+
+- **[Building a Multiplayer Game](https://stack.convex.dev/building-a-multiplayer-game)**
+  <br>*Technical tutorial on building multiplayer games using Convex backend platform*
+
+##### Development → Game Development → Physics Engines → C#
+
+- **[notgiven688/jitterphysics2: Fast, simple, and dependency-free physics engine written in C# with a clear and user-friendly API.](https://github.com/notgiven688/jitterphysics2)**
+  <br>*JitterPhysics2 is a fast, simple, dependency-free physics engine written in C# with a clear and user-friendly API for game development*
+
+#### Development → Game Development → Raylib
+
+- **[raylib | A simple and easy-to-use library to enjoy videogames programming](https://www.raylib.com/)**
+  <br>*Official website for raylib, a simple and easy-to-use C library for videogame programming with cross-platform support*
+
+##### Development → Game Development → Rust → Blog Posts
+
+- **[10 — Hats And Rust](https://gnorp.dev/news/10-Hats-And-Rust/#:~:text=Writing%20a%20game%20in%20Rust,one%20for%20a%20long%20time.)**
+  <br>*Blog post about writing games in Rust programming language*
+
+##### Development → Game Development → Rust → Frameworks
+
+- **[17cupsofcoffee/tetra: 🎮 A simple 2D game framework written in Rust](https://github.com/17cupsofcoffee/tetra)**
+  <br>*Tetra - A simple 2D game framework written in Rust for game development*
+
+##### Development → Game Development → SDL → Graphics API
+
+- **[TheSpydog/SDL_gpu_examples: Example collection for the SDL_GPU API](https://github.com/TheSpydog/SDL_gpu_examples)**
+  <br>*GitHub repository containing example code and tutorials for SDL_GPU API, a modern graphics library for game development*
+
+###### Development → Game Development → Unity → Metroidvania → Tutorials
+
+- **[(1) Creating a Metroidvania (like Hollow Knight) in Unity | Part 1: Movement and Camera - YouTube](https://www.youtube.com/watch?v=dYcf9_TdEW4)**
+  <br>*Unity tutorial series for creating a Metroidvania-style game like Hollow Knight, focusing on movement mechanics and camera systems*
+
+- **[Creating a Metroidvania (like Hollow Knight) in Unity | Part 1: Movement and Camera - YouTube](https://www.youtube.com/watch?v=dYcf9_TdEW4&list=PLgXA5L5ma2BvEqzzeLnb7Q_4z8bz_cKmO)**
+  <br>*YouTube tutorial series on creating a Metroidvania-style game (like Hollow Knight) in Unity, covering movement mechanics and camera systems in Part 1*
+
+###### Development → Game Development → Unreal Engine → C++ Programming → Quick Start
 
 - **[Unreal Engine CPP Quick Start | Unreal Engine 5.3 Documentation](https://docs.unrealengine.com/5.3/en-US/unreal-engine-cpp-quick-start/)**
+  <br>*Official Unreal Engine 5.3 documentation for getting started with C++ programming in Unreal Engine*
 
-#### Development → JavaScript → Libraries
+##### Development → Game Development → Unreal Engine → Coding Standards
 
-- **[bases/bases/react-native.json at main · tsconfig/bases · GitHub](https://github.com/tsconfig/bases/blob/main/bases/react-native.json)**
+- **[Epic C++ Coding Standard for Unreal Engine | Unreal Engine 5.3 Documentation](https://docs.unrealengine.com/5.3/en-US/epic-cplusplus-coding-standard-for-unreal-engine/)**
+  <br>*Epic Games' official C++ coding standard documentation for Unreal Engine development, providing guidelines for code style, naming conventions, and best practices.*
 
-- **[chess-ai/chess.js at main · zeyu2001/chess-ai](https://github.com/zeyu2001/chess-ai/blob/main/js/chess.js)**
+##### Development → Game Development → Unreal Engine → Framework Architecture
+
+- **[The Unreal Engine Game Framework: From int main() to BeginPlay - YouTube](https://www.youtube.com/watch?v=IaU2Hue-ApI)**
+  <br>*YouTube tutorial explaining Unreal Engine's game framework architecture from main function to BeginPlay*
+
+##### Development → Game Development → Unreal Engine → Learning Resources
+
+- **[Learn Unreal Engine - Blueprints and C++ - With This Humble Bundle - YouTube](https://www.youtube.com/watch?v=fScyfWKu8rs)**
+  <br>*YouTube video about learning Unreal Engine development using Blueprints and C++ through a Humble Bundle offer*
+
+##### Development → Game Development → Unreal Engine → Marketplace
+
+- **[Unreal Engine Marketplace | Store of UE Assets for Games and 3D Rendering - UE Marketplace](https://www.unrealengine.com/marketplace/en-US/store)**
+  <br>*Official Unreal Engine Marketplace for purchasing game assets, tools, and content for UE game development and 3D rendering projects*
+
+##### Development → Game Development → Unreal Engine → Programming Tutorials
+
+- **[Learn to Code in UE5 - 1 - Programming Basics - YouTube](https://www.youtube.com/watch?v=cwnmXX7o5qs&list=PLziQlhUd357jEk5y77AHniPa2ywcMExlG&index=2)**
+  <br>*YouTube tutorial series teaching programming basics for Unreal Engine 5 game development*
+
+##### Development → Game Development → Unreal Engine → Tutorials
+
+- **[How to Make Your First Game in Unreal Engine 5 in 2024 - Full Course - YouTube](https://www.youtube.com/watch?v=zt13VcimeyI)**
+  <br>*Complete beginner's course for creating your first game in Unreal Engine 5, covering the fundamentals of game development in 2024*
+
+##### Development → Game Development → Unreal Engine → Visual Studio Integration
+
+- **[Quickstart: Visual Studio Tools for Unreal Engine | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/gamedev/unreal/get-started/vs-tools-unreal-quickstart)**
+  <br>*Microsoft Learn quickstart guide for setting up and using Visual Studio Tools for Unreal Engine development*
+
+##### Development → Game Development → WebAssembly → Porting Projects
+
+- **[GitHub - MercuryWorkshop/terraria-wasm: Terraria ported to the browser with WebAssembly](https://github.com/MercuryWorkshop/terraria-wasm)**
+  <br>*GitHub repository showcasing Terraria game ported to run in web browsers using WebAssembly technology*
+
+###### Development → Graphics → Aseprite → API → MCP Server
+
+- **[diivi/aseprite-mcp: MCP server for interacting with the Aseprite API](https://github.com/diivi/aseprite-mcp)**
+  <br>*MCP server implementation for interacting with the Aseprite pixel art editor API, enabling programmatic control of Aseprite functionality*
+
+##### Development → Graphics → DirectX → Bindings
+
+- **[GitHub - amerkoleci/Vortice.Windows: .NET bindings for Direct3D12, Direct3D11, WIC, Direct2D1, XInput, XAudio, X3DAudio, DXC, Direct3D9 and DirectInput.](https://github.com/amerkoleci/Vortice.Windows)**
+  <br>*.NET bindings library for Microsoft DirectX APIs including Direct3D12, Direct3D11, WIC, Direct2D1, XInput, XAudio, and other Windows graphics/audio technologies*
+
+##### Development → Graphics → DirectX → Work Graphs
+
+- **[A quick introduction to workgraphs – Interplay of Light](https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs/)**
+  <br>*Introduction tutorial to DirectX 12 Work Graphs, a GPU programming feature for managing complex rendering workloads and compute tasks*
+
+#### Development → Graphics → Low-Level Graphics Libraries
+
+- **[GitHub - veldrid/veldrid: A low-level, portable graphics library for .NET.](https://github.com/veldrid/veldrid)**
+  <br>*Veldrid is a low-level, portable graphics library for .NET that provides cross-platform access to graphics APIs like Vulkan, DirectX, and OpenGL*
+
+#### Development → Graphics → Paint Tools
+
+- **[miciwan/PaintMixing](https://github.com/miciwan/PaintMixing)**
+  <br>*GitHub repository for paint mixing application/tool development project*
+
+###### Development → Graphics → Shaders → ShaderToy → MCP
+
+- **[wilsonchenghy/ShaderToy-MCP](https://github.com/wilsonchenghy/ShaderToy-MCP)**
+  <br>*GitHub repository for an MCP server that provides ShaderToy integration, allowing AI assistants to interact with the ShaderToy platform for shader development and management*
+
+##### Development → Graphics Programming → OpenGL → Tutorials
+
+- **[Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/)**
+  <br>*Comprehensive tutorial resource for learning modern OpenGL graphics programming with extensive coverage of rendering techniques*
+
+- **[LearnOpenGL - Hello Triangle](https://learnopengl.com/Getting-started/Hello-Triangle)**
+  <br>*OpenGL tutorial covering the basics of rendering a triangle, fundamental graphics programming concepts*
+
+- **[OpenGL Course - Create 3D and 2D Graphics With C++ - YouTube](https://www.youtube.com/watch?v=45MIykWJ-C4)**
+  <br>*YouTube course teaching OpenGL graphics programming with C++ for creating 3D and 2D graphics*
+
+##### Development → Graphics Programming → OpenTK → Tutorials
+
+- **[LearnOpenTK/README.md at master · opentk/LearnOpenTK · GitHub](https://github.com/opentk/LearnOpenTK/blob/master/README.md)**
+  <br>*LearnOpenTK repository containing OpenGL tutorials and learning materials for the OpenTK graphics library*
+
+##### Development → Graphics Programming → Shader Art → Tutorials
+
+- **[An introduction to Shader Art Coding - YouTube](https://www.youtube.com/watch?v=f4s1h2YETNY)**
+  <br>*YouTube tutorial introducing shader art coding techniques and programming*
+
+###### Development → Graphics Programming → Shaders → Game Development → Tutorials
+
+- **[Shader Basics, Blending & Textures • Shaders for Game Devs [Part 1] - YouTube](https://www.youtube.com/watch?v=kfM-yu0iQBk)**
+  <br>*YouTube tutorial covering shader fundamentals including basics, blending, and textures specifically for game developers*
+
+##### Development → Graphics Programming → Shaders → Tutorials
+
+- **[Introduction to shaders: Learn the basics! - YouTube](https://www.youtube.com/watch?v=3mfvZ-mdtZQ)**
+  <br>*YouTube tutorial covering fundamental concepts of shader programming for graphics development*
+
+###### Development → JavaScript → Babylon.js → Game Development → Character Movement
+
+- **[Character Movement Part 1 | Babylon.js Documentation](https://doc.babylonjs.com/guidedLearning/createAGame/characterMovePt1)**
+  <br>*Official Babylon.js documentation tutorial for implementing character movement in game development projects*
+
+#### Development → JavaScript → Fundamentals
+
+- **[Var, Let, and Const – What's the Difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)**
+  <br>*Educational article explaining the differences between JavaScript variable declaration keywords var, let, and const*
+
+##### Development → JavaScript → Libraries → Chess
 
 - **[chess.js/README.md at master · jhlywa/chess.js](https://github.com/jhlywa/chess.js/blob/master/README.md)**
+  <br>*JavaScript chess library documentation on GitHub - provides chess game logic, move validation, and PGN support*
 
-- **[infinitered/react-native-quick-sqlite: A fast react-native SQLite library built using JSI](https://github.com/infinitered/react-native-quick-sqlite)**
+##### Development → JavaScript → NPM → Documentation
 
-- **[ThreeJS_Tutorial_CharacterController](https://github.com/simondevyoutube/ThreeJS_Tutorial_CharacterController/blob/main/resources/negz.jpg)**
+- **[Packages and modules | npm Docs](https://docs.npmjs.com/packages-and-modules)**
+  <br>*Official npm documentation covering packages and modules for JavaScript package management*
 
-- **[typeorm/typeorm: ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.](https://github.com/typeorm/typeorm)**
+##### Development → JavaScript → NPM → Package Publishing
 
-#### Development → JavaScript → React
+- **[Creating and publishing scoped public packages | npm Docs](https://docs.npmjs.com/creating-and-publishing-scoped-public-packages)**
+  <br>*Official NPM documentation for creating and publishing scoped public packages*
 
-- **[handi-dev/react-native-typescript-boilerplate: React Native Typescript Boilerplate, React Native Starter Kits : react-navigation and its dependencies, redux, redux persist and redux thunk, redux toolkit, react native vector icons, react-native async storage](https://github.com/handi-dev/react-native-typescript-boilerplate)**
+##### Development → JavaScript → NPM → Package Registry
 
-- **[infinitered/ignite-cookbook: Ignite Cookbook for React Native](https://github.com/infinitered/ignite-cookbook)**
+- **[Working with the npm registry - GitHub Docs](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry#authenticating-to-github-packages)**
+  <br>*GitHub documentation for working with the npm registry, specifically covering authentication to GitHub Packages for npm package management*
 
-- **[infinitered/ignite: Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!](https://github.com/infinitered/ignite)**
+##### Development → JavaScript → Performance Optimization → Game Development
 
-- **[infinitered/react-native-mlkit](https://github.com/infinitered/react-native-mlkit)**
+- **[Squeezing Last Bit Of JavaScript Performance For My Automation Game](https://ruoyusun.com/2024/01/23/cividle-optimization.html)**
+  <br>*Technical blog post about JavaScript performance optimization techniques specifically applied to automation game development, covering advanced optimization strategies for improving game performance*
 
-- **[junedomingo/react-native-rename: Rename react-native app with just one command](https://github.com/junedomingo/react-native-rename)**
+##### Development → JavaScript → React → Common Mistakes
 
-- **[Mindinventory/react-native-boilerplate: The Boilerplate contains all the basic packages, common components and, prebuilt code architecture. It will save developer's project setup time.](https://github.com/Mindinventory/react-native-boilerplate)**
+- **[All 12 useState & useEffect Mistakes Junior React Developers Still Make in 2023 - YouTube](https://www.youtube.com/watch?v=-yIsQPp31L0)**
+  <br>*YouTube tutorial covering 12 common useState and useEffect mistakes that junior React developers make*
 
-- **[NewBieBR/typescript-react-native-starter: A highly scalable foundation with a focus on best pratices and simplicity to start your React Native project in seconds.](https://github.com/NewBieBR/typescript-react-native-starter)**
-
-- **[oblador/react-native-vector-icons: Customizable Icons for React Native with support for image source and full styling.](https://github.com/oblador/react-native-vector-icons?tab=readme-ov-file#android-setup)**
-
-- **[osamaqarem/reactnative-fastlane-appcenter: 🚀 A fastlane step-by-step guide for signing, building and uploading new React Native apps to visual studio app center.](https://github.com/osamaqarem/reactnative-fastlane-appcenter)**
-
-- **[react-native-community/rn-diff-purge: Easier React Native upgrades by clearly exposing changes from a version to another. And what better way than to purge, init, then diff? Spoiler: there's no better way. 😎](https://github.com/react-native-community/rn-diff-purge)**
-
-- **[react-native-redux-toolkit-starter-app/android at main · IronTony/react-native-redux-toolkit-starter-app](https://github.com/IronTony/react-native-redux-toolkit-starter-app/tree/main/android)**
-
-- **[typescript-cheatsheets/react: Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets)**
-
-- **[victorkvarghese/react-native-query-boilerplate: React Native App Boilerplate using React Query, Zustand (un-opinionated small, fast and scalable solution)](https://github.com/victorkvarghese/react-native-query-boilerplate)**
-
-- **[welldone-software/why-did-you-render: why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)](https://github.com/welldone-software/why-did-you-render)**
-
-- **[yasaricli/react-native-dots-pagination: A simple dot paging for React Native.](https://github.com/yasaricli/react-native-dots-pagination)**
-
-##### Development → JavaScript → React → Documentation
-
-- **[React Documentation - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=avraammavridis.vsc-react-documentation)**
-
-- **[React Native - fastlane docs](https://docs.fastlane.tools/getting-started/cross-platform/react-native/)**
+##### Development → JavaScript → React → Error Monitoring
 
 - **[React Router for React | Sentry Documentation](https://docs.sentry.io/platforms/javascript/guides/react/features/react-router/)**
+  <br>*Official Sentry documentation for integrating React Router with Sentry error monitoring and performance tracking in React applications*
 
-#### Development → Q&A → General
+##### Development → JavaScript → React → Hooks
 
-- **["parserOptions.project" has been set for @typescript-eslint/parser - Stack Overflow](https://stackoverflow.com/questions/58510287/parseroptions-project-has-been-set-for-typescript-eslint-parser)**
+- **[How to work with intervals in React hooks | by Florian | ITNEXT](https://itnext.io/how-to-work-with-intervals-in-react-hooks-f29892d650f2)**
+  <br>*Tutorial on working with intervals in React hooks, covering timing patterns and cleanup best practices*
 
-- **[node.js - How to use jti claim in a JWT - Stack Overflow](https://stackoverflow.com/questions/28907831/how-to-use-jti-claim-in-a-jwt)**
-
-- **[Query to get all foreign key constraints in SQL Server 2000 - Stack Overflow](https://stackoverflow.com/questions/831589/query-to-get-all-foreign-key-constraints-in-sql-server-2000)**
+###### Development → JavaScript → React → Hooks → ESLint
 
 - **[reactjs - Why eslint-plugin-react-hooks doesn't warn when using react hooks conditionally? - Stack Overflow](https://stackoverflow.com/questions/55892009/why-eslint-plugin-react-hooks-doesnt-warn-when-using-react-hooks-conditionally)**
+  <br>*Stack Overflow discussion about eslint-plugin-react-hooks not warning when React hooks are used conditionally, covering ESLint configuration and React hooks rules*
 
-- **[visual studio 2010 - Can SignalR be used with asp.net WebForms? - Stack Overflow](https://stackoverflow.com/questions/18143599/can-signalr-be-used-with-asp-net-webforms)**
+##### Development → JavaScript → React → Libraries
 
-- **[windows - How to run a PowerShell script - Stack Overflow](https://stackoverflow.com/questions/2035193/how-to-run-a-powershell-script)**
+- **[oblador/react-native-vector-icons: Customizable Icons for React Native with support for image source and full styling.](https://github.com/oblador/react-native-vector-icons?tab=readme-ov-file#android-setup)**
+  <br>*pattern categorization: Development/JavaScript/React/Libraries*
+
+- **[react-native-redux-toolkit-starter-app/android at main · IronTony/react-native-redux-toolkit-starter-app](https://github.com/IronTony/react-native-redux-toolkit-starter-app/tree/main/android)**
+  <br>*pattern categorization: Development/JavaScript/React/Libraries*
+
+##### Development → JavaScript → React → Performance
+
+- **[welldone-software/why-did-you-render: why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)](https://github.com/welldone-software/why-did-you-render)**
+  <br>*React development tool that monkey patches React to detect and notify about potentially avoidable re-renders, helping optimize component performance*
+
+##### Development → JavaScript → React → TypeScript
+
+- **[The React TypeScript Cheatsheet – How To Set Up Types on Hooks](https://www.freecodecamp.org/news/react-typescript-how-to-set-up-types-on-hooks/)**
+  <br>*FreeCodeCamp tutorial on setting up TypeScript types for React hooks, covering type definitions and best practices for React development with TypeScript*
+
+###### Development → JavaScript → State Management → Zustand → TypeScript
+
+- **[TypeScript Guide - Zustand](https://zustand.docs.pmnd.rs/guides/typescript)**
+  <br>*Official TypeScript integration guide for Zustand state management library*
+
+###### Development → JavaScript → Three.js → Game Development → Tutorials
+
+- **[Learn Three.js while building a 3D game with physics - YouTube](https://www.youtube.com/watch?v=hBiGFpBle7E)**
+  <br>*YouTube tutorial teaching Three.js through building a 3D game with physics implementation*
+
+##### Development → JavaScript → Three.js → Tutorials
+
+- **[Getting Started With Three.js - YouTube](https://www.youtube.com/watch?v=8jP4xpga6yY)**
+  <br>*YouTube tutorial introducing Three.js, a JavaScript library for creating 3D graphics in web browsers*
+
+- **[Three.js Tutorial For Absolute Beginners - YouTube](https://www.youtube.com/watch?v=xJAfLdUgdc4)**
+  <br>*YouTube tutorial for absolute beginners learning Three.js, a JavaScript 3D graphics library*
+
+###### Development → JavaScript → Three.js → Tutorials → Character Controllers
+
+- **[Simple Character Controller (using Three.js/JavaScript) - YouTube](https://www.youtube.com/watch?v=EkPfhzIbp2g)**
+  <br>*YouTube tutorial on implementing character controllers using Three.js JavaScript library for 3D web development*
+
+- **[ThreeJS_Tutorial_CharacterController](https://github.com/simondevyoutube/ThreeJS_Tutorial_CharacterController/blob/main/resources/negz.jpg)**
+  <br>*Three.js tutorial repository focused on implementing character controller systems for 3D game development*
+
+#### Development → JavaScript → Tutorials
+
+- **[expo/examples: Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools](https://github.com/expo/examples)**
+  <br>*pattern categorization: Development/JavaScript/Tutorials*
+
+###### Development → JavaScript → TypeScript → ESLint → Troubleshooting
+
+- **["parserOptions.project" has been set for @typescript-eslint/parser - Stack Overflow](https://stackoverflow.com/questions/58510287/parseroptions-project-has-been-set-for-typescript-eslint-parser)**
+  <br>*Stack Overflow question about configuring TypeScript ESLint parser with project settings*
+
+##### Development → JavaScript → TypeScript → ORM
+
+- **[typeorm/typeorm: ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.](https://github.com/typeorm/typeorm)**
+  <br>*TypeORM is a popular Object-Relational Mapping library for TypeScript and JavaScript that supports multiple databases and platforms including Node.js, browsers, and mobile frameworks.*
+
+##### Development → JavaScript → TypeScript → React
+
+- **[typescript-cheatsheets/react: Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets)**
+  <br>*TypeScript cheatsheets and reference guide specifically for experienced React developers learning TypeScript integration*
+
+##### Development → JavaScript → Vue.js → Documentation
+
+- **[Vue.js - The Progressive JavaScript Framework | Vue.js](https://vuejs.org/)**
+  <br>*Official Vue.js framework documentation and homepage for the progressive JavaScript framework*
+
+#### Development → Learning Resources → Programming Books
+
+- **[free-programming-books/books/free-programming-books-langs.md at main · EbookFoundation/free-programming-books · GitHub](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md)**
+  <br>*GitHub repository containing comprehensive collection of free programming books across multiple programming languages and technologies*
+
+##### Development → Machine Learning → PyTorch → Video Tutorials
+
+- **[Learn PyTorch for deep learning in a day. Literally. - YouTube](https://www.youtube.com/watch?v=Z_ikDlimN6A)**
+  <br>*YouTube tutorial for learning PyTorch deep learning framework in one day*
+
+##### Development → Mobile → Android → Build Management
+
+- **[Increment versionCode task](https://gist.github.com/carloscuesta/678668da906bb80bdd22c8fd690c4fc4)**
+  <br>*GitHub Gist containing a task or script for incrementing Android app version codes during build process*
+
+##### Development → Mobile → Android → Build Tools
+
+- **[How to use bundletool](https://gist.github.com/rjsuzuki/3e6b43008feaf5191265548de6d0a6b3)**
+  <br>*Tutorial guide on using bundletool, Google's command-line tool for Android App Bundle management and APK generation*
+
+##### Development → Mobile → Expo → Build Tools
+
+- **[expo/android/build.gradle at main · expo/expo](https://github.com/expo/expo/blob/main/android/build.gradle)**
+  <br>*Expo framework's Android Gradle build configuration file for React Native mobile app development*
+
+- **[Run builds locally or on your own infrastructure - Expo Documentation](https://docs.expo.dev/build-reference/local-builds/)**
+  <br>*Expo documentation on running builds locally or on your own infrastructure instead of using EAS Build cloud service*
+
+##### Development → Mobile → Expo → Config Plugins
+
+- **[expo/config-plugins: Out-of-tree Expo config plugins for packages that haven't adopted the config plugin system yet.](https://github.com/expo/config-plugins)**
+  <br>*Official Expo repository containing out-of-tree config plugins for packages that haven't adopted the config plugin system yet, providing compatibility solutions for React Native/Expo development*
+
+##### Development → Mobile → Expo → Distribution
+
+- **[Share pre-release versions of your app - Expo Documentation](https://docs.expo.dev/guides/sharing-preview-releases/)**
+  <br>*Expo documentation guide on sharing pre-release versions of mobile apps for testing and feedback before production deployment*
+
+##### Development → Mobile → Expo → Documentation
+
+- **[fyi/eas-project-id.md at main · expo/fyi](https://github.com/expo/fyi/blob/main/eas-project-id.md)**
+  <br>*Official Expo documentation explaining EAS project ID configuration and usage in mobile app development*
+
+- **[Install Expo modules - Expo Documentation](https://docs.expo.dev/bare/installing-expo-modules/)**
+  <br>*Official Expo documentation for installing Expo modules in bare React Native projects*
+
+- **[Reference - Expo Documentation](https://docs.expo.dev/versions/latest/)**
+  <br>*Official Expo framework documentation for React Native development with latest version reference*
+
+##### Development → Mobile → Expo → Local Development
+
+- **[Local app development - Expo Documentation](https://docs.expo.dev/guides/local-app-development/)**
+  <br>*Expo documentation guide for setting up and running local app development environment*
+
+##### Development → Mobile → Expo → Templates
+
+- **[expo/templates at master · expo/expo](https://github.com/expo/expo/tree/master/templates)**
+  <br>*Official Expo templates repository containing starter projects and boilerplates for React Native mobile app development*
+
+##### Development → Mobile → React Native → Boilerplates
+
+- **[infinitered/ignite: Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!](https://github.com/infinitered/ignite)**
+  <br>*Infinite Red's battle-tested React Native project boilerplate with CLI, generators, and development tools for rapid mobile app development*
+
+- **[Mindinventory/react-native-boilerplate: The Boilerplate contains all the basic packages, common components and, prebuilt code architecture. It will save developer's project setup time.](https://github.com/Mindinventory/react-native-boilerplate)**
+  <br>*React Native boilerplate repository containing basic packages, common components, and pre-built code architecture to accelerate project setup*
+
+- **[victorkvarghese/react-native-query-boilerplate: React Native App Boilerplate using React Query, Zustand (un-opinionated small, fast and scalable solution)](https://github.com/victorkvarghese/react-native-query-boilerplate)**
+  <br>*React Native app boilerplate featuring React Query for data fetching and Zustand for state management - provides a complete starter template for mobile development*
+
+###### Development → Mobile → React Native → CI-CD → Fastlane
+
+- **[osamaqarem/reactnative-fastlane-appcenter: 🚀 A fastlane step-by-step guide for signing, building and uploading new React Native apps to visual studio app center.](https://github.com/osamaqarem/reactnative-fastlane-appcenter)**
+  <br>*Step-by-step guide for using Fastlane to sign, build and upload React Native apps to Visual Studio App Center*
+
+- **[React Native - fastlane docs](https://docs.fastlane.tools/getting-started/cross-platform/react-native/)**
+  <br>*Official fastlane documentation for React Native app deployment automation and CI/CD workflows*
+
+##### Development → Mobile → React Native → Cookbook
+
+- **[infinitered/ignite-cookbook: Ignite Cookbook for React Native](https://github.com/infinitered/ignite-cookbook)**
+  <br>*Official Ignite Cookbook for React Native development by Infinite Red, providing recipes and best practices for React Native app development*
+
+###### Development → Mobile → React Native → Database → SQLite
+
+- **[infinitered/react-native-quick-sqlite: A fast react-native SQLite library built using JSI](https://github.com/infinitered/react-native-quick-sqlite)**
+  <br>*Fast React Native SQLite library built using JSI for high-performance database operations*
+
+##### Development → Mobile → React Native → Fundamentals
+
+- **[Fundamentals of Building A React Native App - React Native Fundamentals Workshop](https://www.reactnativeschool.com/react-native-fundamentals-workshop/)**
+  <br>*React Native School workshop covering fundamental concepts for building React Native applications*
+
+##### Development → Mobile → React Native → Hermes
+
+- **[fyi/hermes-android-config.md at main · expo/fyi](https://github.com/expo/fyi/blob/main/hermes-android-config.md)**
+  <br>*Expo documentation about Hermes JavaScript engine configuration for Android React Native apps*
+
+##### Development → Mobile → React Native → Learning
+
+- **[Learn React Native Online at React Native School](https://www.reactnativeschool.com/)**
+  <br>*Educational platform dedicated to React Native development with tutorials, courses, and learning resources*
+
+##### Development → Mobile → React Native → Learning Resources
+
+- **[RNDevLearnNew/README.md at main · Ajmal0197/RNDevLearnNew](https://github.com/Ajmal0197/RNDevLearnNew/blob/main/README.md)**
+  <br>*React Native development learning repository with comprehensive tutorials, examples, and educational materials for mobile app development*
+
+##### Development → Mobile → React Native → ML Kit
+
+- **[infinitered/react-native-mlkit](https://github.com/infinitered/react-native-mlkit)**
+  <br>*React Native library for integrating Google ML Kit machine learning capabilities into mobile applications*
+
+##### Development → Mobile → React Native → Projects
+
+- **[infinitered/ExpensifyApp: Infinite Red's fork of New Expensify](https://github.com/infinitered/ExpensifyApp)**
+  <br>*Infinite Red's fork of the New Expensify React Native application - a comprehensive expense management mobile app*
+
+##### Development → Mobile → React Native → Starter Templates
+
+- **[bidah/universal-nativewind-v4-starter: ⚛️💨 Expo managed app starter setup to create universal apps using expo-router and nativewind v4.](https://github.com/bidah/universal-nativewind-v4-starter)**
+  <br>*Expo managed React Native starter template for creating universal apps with expo-router and NativeWind v4 styling framework*
+
+- **[NewBieBR/typescript-react-native-starter: A highly scalable foundation with a focus on best pratices and simplicity to start your React Native project in seconds.](https://github.com/NewBieBR/typescript-react-native-starter)**
+  <br>*TypeScript React Native starter project focusing on scalability, best practices, and simplicity for rapid development setup*
+
+##### Development → Mobile → React Native → Tools
+
+- **[junedomingo/react-native-rename: Rename react-native app with just one command](https://github.com/junedomingo/react-native-rename)**
+  <br>*Command-line tool for renaming React Native applications with a single command*
+
+- **[rnx-kit/README.md at main · microsoft/rnx-kit](https://github.com/microsoft/rnx-kit/blob/main/README.md)**
+  <br>*Microsoft's rnx-kit toolkit for React Native development containing tools and libraries for building, bundling, and managing React Native applications*
+
+###### Development → Mobile → React Native → TypeScript → Boilerplates
+
+- **[handi-dev/react-native-typescript-boilerplate: React Native Typescript Boilerplate, React Native Starter Kits : react-navigation and its dependencies, redux, redux persist and redux thunk, redux toolkit, react native vector icons, react-native async storage](https://github.com/handi-dev/react-native-typescript-boilerplate)**
+  <br>*React Native TypeScript starter template with navigation, Redux toolkit, vector icons, and async storage - comprehensive boilerplate for mobile app development*
+
+##### Development → Mobile → React Native → UI Components
+
+- **[yasaricli/react-native-dots-pagination: A simple dot paging for React Native.](https://github.com/yasaricli/react-native-dots-pagination)**
+  <br>*A React Native library for implementing dot pagination indicators, commonly used for carousels and image galleries*
+
+##### Development → Mobile → React Native → Upgrade Tools
+
+- **[react-native-community/rn-diff-purge: Easier React Native upgrades by clearly exposing changes from a version to another. And what better way than to purge, init, then diff? Spoiler: there's no better way. 😎](https://github.com/react-native-community/rn-diff-purge)**
+  <br>*React Native upgrade tool that shows clean diffs between versions to make upgrading easier*
+
+#### Development → Personal → Profiles
+
+- **[jpeggdev](https://github.com/jpeggdev)**
+  <br>*Personal GitHub profile page for jpeggdev developer showcasing repositories and development work*
+
+##### Development → Programming Languages → Scheme → Philosophy
+
+- **[[Scheme'22] Programming is (should be) fun! - YouTube](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)**
+  <br>*YouTube video from Scheme'22 conference discussing the philosophical aspects of programming and how programming should be enjoyable and fun*
+
+##### Development → Resources → Security → Knowledge Base
+
+- **[GitHub - trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge)**
+  <br>*Comprehensive collection of security tools, manuals, cheatsheets, and hacks for cybersecurity professionals and developers*
+
+##### Development → Security → Git Security → Personal Access Tokens
+
+- **[Managing your personal access tokens - GitHub Docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)**
+  <br>*GitHub documentation for creating, managing, and securing personal access tokens for API authentication and Git operations*
+
+##### Development → Security → JWT → Implementation
+
+- **[node.js - How to use jti claim in a JWT - Stack Overflow](https://stackoverflow.com/questions/28907831/how-to-use-jti-claim-in-a-jwt)**
+  <br>*Stack Overflow discussion about implementing the jti (JWT ID) claim in JSON Web Tokens for Node.js applications*
+
+##### Development → Software Engineering → Architecture → Code First
+
+- **[Is Code First right way how to write modern enterprise applications? - Microsoft Community Hub](https://techcommunity.microsoft.com/t5/tech-community-ideas/is-code-first-right-way-how-to-write-modern-enterprise/idi-p/2401008)**
+  <br>*Microsoft community discussion about Code First approach for modern enterprise applications*
+
+#### Development → Software Engineering → Code Review
+
+- **[Understanding Code You Didn't Write // Code Review - YouTube](https://www.youtube.com/watch?v=0AFKxekpbUM)**
+  <br>*YouTube video tutorial about understanding and reviewing code written by others, covering techniques for comprehending unfamiliar codebases*
+
+##### Development → Software Engineering → Design Patterns → SOLID Principles
+
+- **[Learn SOLID design principles using Java - DEV Community](https://dev.to/fialhorenato/learn-solid-design-principles-using-java-m68?utm_source=dormosheio&utm_campaign=dormosheio)**
+  <br>*Tutorial article explaining SOLID design principles using Java programming examples for better software architecture*
+
+#### Development → Software Engineering → Service Architecture
+
+- **[ServiceLine](https://github.com/serviceline)**
+  <br>*GitHub organization for ServiceLine - appears to be a software development/engineering services company or platform*
+
+#### Development → Software Engineering → Technical Debt
+
+- **[Prioritizing Technical Debt as If Time & Money Matters • Adam Tornhill • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=w9YhmMPLQ4U)**
+  <br>*GOTO 2022 conference talk by Adam Tornhill on prioritizing technical debt management with time and financial considerations*
+
+##### Development → Software Engineering → Testing → TDD
+
+- **[🚀 TDD, Where Did It All Go Wrong (Ian Cooper) - YouTube](https://www.youtube.com/watch?v=EZ05e7EMOLM)**
+  <br>*Ian Cooper's influential conference talk about Test-Driven Development practices and common misconceptions in TDD implementation*
+
+##### Development → Tools → Fonts → Programming Fonts
+
+- **[kencrocken/FiraCodeiScript: Mashup Font of FiraCode and Script12](https://github.com/kencrocken/FiraCodeiScript)**
+  <br>*A mashup font combining FiraCode (programming ligatures) with Script12 features, hosted on GitHub*
+
+#### Development → Tools → Notifications
+
+- **[caronc/apprise: Apprise - Push Notifications that work with just about every platform!](https://github.com/caronc/apprise)**
+  <br>*Apprise is a Python library for sending push notifications across multiple platforms and services with a unified API*
+
+###### Development → Tools → VS Code → Extensions → React
+
+- **[React Documentation - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=avraammavridis.vsc-react-documentation)**
+  <br>*VS Code extension that provides React documentation integration and developer tools for React development workflows*
 
 #### Development → Tools → Version Control
 
-- **[17cupsofcoffee/tetra: 🎮 A simple 2D game framework written in Rust](https://github.com/17cupsofcoffee/tetra)**
-
-- **[8enSmith/mcp-open-library: A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.](https://github.com/8enSmith/mcp-open-library)**
-
-- **[agentic-project-management/README.md at main · sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management/blob/main/README.md)**
-
-- **[ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)**
-
-- **[AppSettings · serilog/serilog Wiki · GitHub](https://github.com/serilog/serilog/wiki/AppSettings)**
-
-- **[awkoy/replicate-flux-mcp: MCP for Replicate Flux Model - A powerful tool for generating customized images and SVG assets that match specific coding vibes and aesthetic styles. Streamline your visual asset creation process with AI-powered design generation tailored for developers.](https://github.com/awkoy/replicate-flux-mcp)**
-
-- **[basic-memory/llms-install.md at main · basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory/blob/main/llms-install.md)**
-
-- **[benborla/mcp-server-mysql: A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.](https://github.com/benborla/mcp-server-mysql?tab=readme-ov-file#troubleshooting)**
-
-- **[bidah/universal-nativewind-v4-starter: ⚛️💨 Expo managed app starter setup to create universal apps using expo-router and nativewind v4.](https://github.com/bidah/universal-nativewind-v4-starter)**
-
-- **[Blender-4---Geometry-Nodes-for-Beginners/Extra at main · PacktPublishing/Blender-4---Geometry-Nodes-for-Beginners](https://github.com/PacktPublishing/Blender-4---Geometry-Nodes-for-Beginners/tree/main/Extra)**
-
-- **[caronc/apprise: Apprise - Push Notifications that work with just about every platform!](https://github.com/caronc/apprise)**
-
-- **[ChrisDill/Raylib-cs: C# bindings for raylib, a simple and easy-to-use library to learn videogames programming](https://github.com/ChrisDill/Raylib-cs)**
-
-- **[ckreiling/mcp-server-docker: MCP server for Docker](https://github.com/ckreiling/mcp-server-docker)**
-
-- **[CoderGamester/mcp-unity: MCP Server to integrate Unity Editor game engine with different AI Model clients (e.g. Claude Desktop, Windsurf, Cursor)](https://github.com/CoderGamester/mcp-unity?tab=readme-ov-file)**
-
-- **[DevDreed/claude-task-master-extension](https://github.com/DevDreed/claude-task-master-extension)**
-
-- **[diivi/aseprite-mcp: MCP server for interacting with the Aseprite API](https://github.com/diivi/aseprite-mcp)**
-
-- **[expo/android/build.gradle at main · expo/expo](https://github.com/expo/expo/blob/main/android/build.gradle)**
-
-- **[expo/config-plugins: Out-of-tree Expo config plugins for packages that haven't adopted the config plugin system yet.](https://github.com/expo/config-plugins)**
-
-- **[expo/examples: Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools](https://github.com/expo/examples)**
-
-- **[expo/templates at master · expo/expo](https://github.com/expo/expo/tree/master/templates)**
-
-- **[eyaltoledano/claude-task-master: An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.](https://github.com/eyaltoledano/claude-task-master/tree/main)**
-
-- **[free-programming-books/books/free-programming-books-langs.md at main · EbookFoundation/free-programming-books · GitHub](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md)**
-
-- **[FreePeak/db-mcp-server: A powerful multi-database server implementing the Model Context Protocol (MCP) to provide AI assistants with structured access to databases.](https://github.com/freepeak/db-mcp-server)**
-
-- **[fyi/eas-project-id.md at main · expo/fyi](https://github.com/expo/fyi/blob/main/eas-project-id.md)**
-
-- **[fyi/hermes-android-config.md at main · expo/fyi](https://github.com/expo/fyi/blob/main/hermes-android-config.md)**
-
-- **[gabotechs/dep-tree: tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.](https://github.com/gabotechs/dep-tree)**
-
-- **[GitHub - amerkoleci/Vortice.Windows: .NET bindings for Direct3D12, Direct3D11, WIC, Direct2D1, XInput, XAudio, X3DAudio, DXC, Direct3D9 and DirectInput.](https://github.com/amerkoleci/Vortice.Windows)**
-
-- **[GitHub - Jamsers/Godot-Human-For-Scale: Simple controllable character that you can use to run around in your Godot level.](https://github.com/Jamsers/Godot-Human-For-Scale)**
-
-- **[GitHub - MercuryWorkshop/terraria-wasm: Terraria ported to the browser with WebAssembly](https://github.com/MercuryWorkshop/terraria-wasm)**
-
-- **[GitHub - trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge)**
-
-- **[GitHub - tsconfig/bases: Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment](https://github.com/tsconfig/bases/)**
-
-- **[GitHub - veldrid/veldrid: A low-level, portable graphics library for .NET.](https://github.com/veldrid/veldrid)**
-
-- **[godot-goap/goap at main · viniciusgerevini/godot-goap](https://github.com/viniciusgerevini/godot-goap/tree/main/goap)**
-
-- **[godotengine/godot-demo-projects: Demonstration and Template Projects](https://github.com/godotengine/godot-demo-projects)**
-
-- **[GongRzhe/APIWeaver: A FastMCP server that dynamically creates MCP (Model Context Protocol) servers from web API configurations. This allows you to easily integrate any REST API, GraphQL endpoint, or web service into an MCP-compatible tool that can be used by AI assistants like Claude.](https://github.com/GongRzhe/APIWeaver)**
-
-- **[googleapis/genai-toolbox: MCP Toolbox for Databases is an open source MCP server for databases.](https://github.com/googleapis/genai-toolbox?tab=readme-ov-file)**
-
-- **[Home · ErikEJ/EFCorePowerTools Wiki · GitHub](https://github.com/ErikEJ/EFCorePowerTools/wiki)**
-
-- **[How to use bundletool](https://gist.github.com/rjsuzuki/3e6b43008feaf5191265548de6d0a6b3)**
-
-- **[Increment versionCode task](https://gist.github.com/carloscuesta/678668da906bb80bdd22c8fd690c4fc4)**
-
-- **[InditexTech/mcp-teams-server: An MCP (Model Context Protocol) server implementation for Microsoft Teams integration, providing capabilities to read messages, create messages, reply to messages, mention members.](https://github.com/InditexTech/mcp-teams-server)**
-
-- **[infinitered/ExpensifyApp: Infinite Red's fork of New Expensify](https://github.com/infinitered/ExpensifyApp)**
-
-- **[infinitered/gluegun: A delightful toolkit for building TypeScript-powered command-line apps.](https://github.com/infinitered/gluegun)**
-
-- **[infinitered/solidarity: Solidarity is an environment checker for project dependencies across multiple machines.](https://github.com/infinitered/solidarity)**
-
-- **[joinly-ai/joinly: Make your meetings accessible to AI Agents](https://github.com/joinly-ai/joinly)**
-
-- **[jpeggdev](https://github.com/jpeggdev)**
-
-- **[jpeggdev/ElisSong: A C# game developed using Raylib-cs](https://github.com/jpeggdev/ElisSong)**
-
-- **[jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university/)**
-
-- **[kencrocken/FiraCodeiScript: Mashup Font of FiraCode and Script12](https://github.com/kencrocken/FiraCodeiScript)**
-
-- **[LearnOpenTK/README.md at master · opentk/LearnOpenTK · GitHub](https://github.com/opentk/LearnOpenTK/blob/master/README.md)**
-
-- **[Managing your personal access tokens - GitHub Docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)**
-
-- **[mcp-server-mariadb/src/mcp_server_mariadb/server.py at main · abel9851/mcp-server-mariadb](https://github.com/abel9851/mcp-server-mariadb/blob/main/src/mcp_server_mariadb/server.py)**
-
-- **[MCPJam/inspector: Testing and Debugging MCPs](https://github.com/MCPJam/inspector?tab=readme-ov-file#%EF%B8%8F-our-roadmap)**
-
-- **[MCPJam/inspector: Testing and Debugging MCPs](https://github.com/MCPJam/inspector)**
-
-- **[miciwan/PaintMixing](https://github.com/miciwan/PaintMixing)**
-
 - **[modelcontextprotocol · Discussions · GitHub](https://github.com/orgs/modelcontextprotocol/discussions)**
-
-- **[modelcontextprotocol · Discussions · GitHub](https://github.com/orgs/modelcontextprotocol/discussions?page=2)**
-
-- **[modelcontextprotocol/servers: Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#%EF%B8%8F-official-integrations)**
-
-- **[MoonsideGames/MoonWorks: A free cross-platform game development framework.](https://github.com/MoonsideGames/MoonWorks)**
-
-- **[mysql_mcp_server/README.md at main · designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server/blob/main/README.md)**
-
-- **[notgiven688/jitterphysics2: Fast, simple, and dependency-free physics engine written in C# with a clear and user-friendly API.](https://github.com/notgiven688/jitterphysics2)**
-
-- **[ocornut/imgui: Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies](https://github.com/ocornut/imgui/)**
-
-- **[PacktPublishing/Blender-4---Geometry-Nodes-for-Beginners: Blender 4 - Geometry Nodes for Beginners, by Packt Publishing](https://github.com/PacktPublishing/Blender-4---Geometry-Nodes-for-Beginners)**
-
-- **[PacktPublishing/Blender-Geometry-Nodes-for-Beginners---Procedural-Bridge-Generator: This is the code repository for Blender Geometry Nodes for Beginners - Procedural Bridge Generator, published by Packt](https://github.com/PacktPublishing/Blender-Geometry-Nodes-for-Beginners---Procedural-Bridge-Generator)**
+  <br>*pattern categorization: Development/Tools/Version Control*
 
 - **[PacktPublishing/Blender-Lighting-Compositing-for-Beginners: Blender Lighting & Compositing for Beginners, by Packt Publishing](https://github.com/PacktPublishing/Blender-Lighting-Compositing-for-Beginners)**
 
-- **[Prathamesh0901/zoom-mcp-server](https://github.com/Prathamesh0901/zoom-mcp-server/tree/main)**
+##### Development → TypeScript → Build Tools → Babel
 
-- **[quazaai/UnityMCPIntegration: Enable AI Agents to Control Unity](https://github.com/quazaai/UnityMCPIntegration)**
+- **[TypeScript: Documentation - Using Babel with TypeScript](https://www.typescriptlang.org/docs/handbook/babel-with-typescript.html)**
+  <br>*Official TypeScript documentation explaining how to integrate and use Babel with TypeScript for compilation and build processes*
 
-- **[RestCheatSheet/api-cheat-sheet: API Design Guidelines and Best Practices Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-sheet#api-design-cheat-sheet)**
+#### Development → TypeScript → CLI Tools
 
-- **[RNDevLearnNew/README.md at main · Ajmal0197/RNDevLearnNew](https://github.com/Ajmal0197/RNDevLearnNew/blob/main/README.md)**
+- **[infinitered/gluegun: A delightful toolkit for building TypeScript-powered command-line apps.](https://github.com/infinitered/gluegun)**
+  <br>*Gluegun is a TypeScript framework for building command-line applications with features like plugins, templates, and scaffolding tools*
 
-- **[rnx-kit/README.md at main · microsoft/rnx-kit](https://github.com/microsoft/rnx-kit/blob/main/README.md)**
+#### Development → TypeScript → Configuration
 
-- **[Sample CI GitHub Action file for .NET 8](https://gist.github.com/guibranco/761d06bab71bf9fde5453365473825ae)**
+- **[bases/bases/react-native.json at main · tsconfig/bases · GitHub](https://github.com/tsconfig/bases/blob/main/bases/react-native.json)**
+  <br>*TypeScript configuration file for React Native development from the official tsconfig/bases repository*
 
-- **[SanderMertens/ecs-faq: Frequently asked questions about Entity Component Systems](https://github.com/SanderMertens/ecs-faq)**
+- **[GitHub - tsconfig/bases: Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment](https://github.com/tsconfig/bases/)**
+  <br>*GitHub repository hosting pre-configured TSConfig base configurations for different TypeScript runtime environments*
+
+- **[TypeScript: Documentation - What is a tsconfig.json](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)**
+  <br>*Official TypeScript documentation explaining the tsconfig.json configuration file structure and options*
+
+#### Development → TypeScript → Documentation
+
+- **[TypeScript: Documentation - TypeScript for JavaScript Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)**
+  <br>*Official TypeScript documentation specifically for JavaScript developers learning TypeScript*
+
+##### Development → TypeScript → Documentation → Tooling
+
+- **[TypeScript: Documentation - TypeScript Tooling in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html)**
+  <br>*TypeScript official documentation guide covering development tooling setup and configuration in 5 minutes*
+
+#### Development → TypeScript → Migration
+
+- **[TypeScript: Documentation - Migrating from JavaScript](https://www.typescriptlang.org/docs/handbook/migrating-from-javascript.html)**
+  <br>*Official TypeScript documentation guide for migrating JavaScript projects to TypeScript*
+
+##### Development → Version Control → Git → Best Practices
 
 - **[Semantic Commit Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)**
+  <br>*A GitHub gist providing guidelines and standards for writing semantic commit messages to improve code maintainability and collaboration.*
 
-- **[semcp/mcp-sinstaller: A MCP Server for installing and containerizing other MCP servers](https://github.com/semcp/mcp-sinstaller)**
+##### Development → Version Control → Git → Tutorials
 
-- **[ServiceLine](https://github.com/serviceline)**
+- **[Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git - YouTube](https://www.youtube.com/watch?v=Uszj_k0DGsg)**
+  <br>*YouTube tutorial covering advanced Git concepts and professional workflows for version control mastery*
 
-- **[somethinglikegames/godot4-network-tutorial: The sourcecode for my godot 4 networking tutorial series](https://github.com/somethinglikegames/godot4-network-tutorial)**
+#### Development → Windows → Dev Environment
 
-- **[Suchiman/SerilogAnalyzer: Roslyn-based analysis for code using the Serilog logging library. Checks for common mistakes and usage problems.](https://github.com/Suchiman/SerilogAnalyzer)**
+- **[Set up a Dev Drive on Windows 11 | Microsoft Learn](https://learn.microsoft.com/en-us/windows/dev-drive/)**
+  <br>*Microsoft Learn documentation for setting up a Dev Drive on Windows 11 for optimized development performance*
 
-- **[SureScaleAI/openai-gpt-image-mcp: A Model Context Protocol (MCP) tool server for OpenAI's GPT-4o/gpt-image-1 image generation and editing APIs.](https://github.com/SureScaleAI/openai-gpt-image-mcp)**
+##### Development → Windows → PowerShell → Scripting
 
-- **[TheSpydog/SDL_gpu_examples: Example collection for the SDL_GPU API](https://github.com/TheSpydog/SDL_gpu_examples)**
+- **[windows - How to run a PowerShell script - Stack Overflow](https://stackoverflow.com/questions/2035193/how-to-run-a-powershell-script)**
+  <br>*Stack Overflow Q&A about running PowerShell scripts on Windows systems*
 
-- **[typescript-sdk/README.md at main · modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk/blob/main/README.md)**
+#### Development → YouTube → Programming Channels
 
-- **[upstash/context7: Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors](https://github.com/upstash/context7)**
+- **[FencerDevLog - YouTube](https://www.youtube.com/@FencerDevLog)**
+  <br>*YouTube channel focused on software development and programming tutorials*
 
-- **[vkhorikov/CSharpFunctionalExtensions: Functional extensions for C#](https://github.com/vkhorikov/CSharpFunctionalExtensions)**
+#### Education → Computer Science → Self-Guided Courses
 
-- **[wilsonchenghy/ShaderToy-MCP](https://github.com/wilsonchenghy/ShaderToy-MCP)**
+- **[CS 6120: The Self-Guided Course](https://www.cs.cornell.edu/courses/cs6120/2023fa/self-guided/)**
+  <br>*Cornell University's CS 6120 advanced compiler course designed for self-guided learning, covering compiler construction and optimization techniques*
 
-- **[Working with the npm registry - GitHub Docs](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry#authenticating-to-github-packages)**
+###### Entertainment → Comedy → Sketch Shows → In Living Color → Jim Carrey
+
+- **[In Living Color: Jim Carrey Supercut Part 1 - YouTube](https://www.youtube.com/watch?v=PobHHXd4Szk)**
+  <br>*YouTube compilation video featuring Jim Carrey's comedic performances from the sketch comedy show In Living Color*
+
+##### Entertainment → Comedy → Stand-up → Matt Rife
+
+- **[Most SAVAGE Matt Rife Moments! - YouTube](https://www.youtube.com/watch?v=g9HRER65FUo)**
+  <br>*YouTube compilation video featuring notable/standout moments from comedian Matt Rife's stand-up performances*
+
+##### Entertainment → Content Creation → Filmmaking → Unreal Engine
+
+- **[Why I'm ADDICTED To Filmmaking In Unreal Engine - YouTube](https://www.youtube.com/watch?v=AWkbyPDFUPo)**
+  <br>*YouTube video about the creator's addiction to filmmaking using Unreal Engine, discussing the appeal and capabilities of using this game engine for film production*
 
 ### Entertainment → Gaming
-
-- **[2b: Building New Games with FNA - FNA Docs](https://fna-xna.github.io/docs/2b%3A-Building-New-Games-with-FNA/)**
-
-- **[2D Game Assets Store & Free - CraftPix.net](https://craftpix.net/)**
 
 - **[Aluminium Processing for Beginners : r/SatisfactoryGame](https://www.reddit.com/r/SatisfactoryGame/comments/ss9w87/aluminium_processing_for_beginners/)**
 
 - **[Blueprints / [SCIM] Satisfactory - Calculator | Gaming Tool/Wiki/Database to empower the players.](https://satisfactory-calculator.com/en/blueprints/index/index/idU/30791/user/Katoo)**
 
-- **[Building a Multiplayer Game](https://stack.convex.dev/building-a-multiplayer-game)**
-
-- **[DrBones Infernalist Arsonist End Game & Budget Build Guide - PoE 2 Character Planner](https://maxroll.gg/poe2/planner/t78a90ni)**
-
-- **[Godot 4 Game Development Mini-Degree – Zenva Academy](https://academy.zenva.com/product/godot-game-development-mini-degree/)**
-
-- **[Godot Shaders - Make your games beautiful!](https://godotshaders.com/)**
-
-- **[Home - GameDev.net](https://gamedev.net/)**
-
 - **[Insane 1.350.000 MW Nuclear Chaos for Hornslet 1.0 GRN / Megaprints / [SCIM] Satisfactory - Calculator | Gaming Tool/Wiki/Database to empower the players.](https://satisfactory-calculator.com/en/megaprints/index/details/id/1586/name/Insane+1.350.000+MW+Nuclear+Chaos+for+Hornslet+1.0+GRN)**
-
-- **[Introduction · Joys of Small Game Development](https://abagames.github.io/joys-of-small-game-development-en/)**
-
-- **[Making Video Games in 2025 (without an engine) - Noel Berry](https://noelberry.ca/posts/making_games_in_2025/)**
 
 - **[Megaprints / [SCIM] Satisfactory - Calculator | Gaming Tool/Wiki/Database to empower the players.](https://satisfactory-calculator.com/en/megaprints/index/index/idU/30791/user/Katoo)**
 
-- **[Minion Army Lich - Leveling and Endgame Guide. : r/pathofexile2builds](https://www.reddit.com/r/pathofexile2builds/comments/1jucsnb/minion_army_lich_leveling_and_endgame_guide/)**
+##### Entertainment → Gaming → Game Design → Analysis
 
-- **[MonoGame | MonoGame](https://monogame.net/)**
+- **[Cursed Problems in Game Design - YouTube](https://www.youtube.com/watch?v=8uE6-vIi1rQ)**
+  <br>*YouTube video analyzing problematic design patterns and challenging decisions in game development*
+
+###### Entertainment → Gaming → Path of Exile 2 → Build Guides → Infernalist
+
+- **[DrBones Infernalist Arsonist End Game & Budget Build Guide - PoE 2 Character Planner](https://maxroll.gg/poe2/planner/t78a90ni)**
+  <br>*Path of Exile 2 character build guide for Infernalist Arsonist with end game and budget configurations using MaxRoll character planner*
+
+###### Entertainment → Gaming → Path of Exile 2 → Build Guides → Infernalist → Hexblast
+
+- **[Endgame - Hexblast Infernalist Demon Form - PoE 2 Witch Build Guide](https://mobalytics.gg/poe-2/profile/bbca5af1-7d78-4e0c-8eb1-f7531ff557f8/builds/fdc301ca-f6c3-44a3-b377-e6d2e6d6a70c?weaponSet=set1)**
+  <br>*Endgame Hexblast Infernalist Demon Form build guide for Path of Exile 2 Witch class*
+
+###### Entertainment → Gaming → Path of Exile 2 → Build Guides → Witch → Minion Builds → Lich
+
+- **[Minion Army Lich - Leveling and Endgame Guide. : r/pathofexile2builds](https://www.reddit.com/r/pathofexile2builds/comments/1jucsnb/minion_army_lich_leveling_and_endgame_guide/)**
+  <br>*Comprehensive leveling and endgame guide for Minion Army Lich build in Path of Exile 2*
+
+##### Entertainment → Gaming → Path of Exile 2 → Character Planning
 
 - **[Raxx's Endgame Poison Concoction Pathfinder Ranger - PoE 2 Character Planner](https://maxroll.gg/poe2/planner/dqc6c0y9)**
-
-- **[raylib | A simple and easy-to-use library to enjoy videogames programming](https://www.raylib.com/)**
-
-- **[Squeezing Last Bit Of JavaScript Performance For My Automation Game](https://ruoyusun.com/2024/01/23/cividle-optimization.html)**
-
-- **[Stride Game Engine - Free, Open Source C# 2D and 3D Game Engine - Stride Game Engine](https://www.stride3d.net/)**
-
-- **[Table of Contents · Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)**
-
-- **[Unreal Engine Marketplace | Store of UE Assets for Games and 3D Rendering - UE Marketplace](https://www.unrealengine.com/marketplace/en-US/store)**
+  <br>*Interactive character planner for Path of Exile 2 featuring an endgame Poison Concoction Pathfinder Ranger build by Raxx on MaxRoll.gg*
 
 - **[Vinidiction's Budget Friendly Spark For Leveling & Endgame - PoE 2 Character Planner](https://maxroll.gg/poe2/planner/9k3md00l)**
+  <br>*Budget-friendly Spark build guide for leveling and endgame in Path of Exile 2 with character planner tool*
 
-- **[Welcome To GodotSteam - GodotSteam](https://godotsteam.com/)**
+##### Entertainment → Gaming → Satisfactory → Showcases
 
-### Entertainment → Technology Reviews
+- **[[Showcase] Ficsonium in Nuclear City using *all* worldwide uranium producing 700 GW : r/satisfactory](https://www.reddit.com/r/satisfactory/comments/1kz444r/showcase_ficsonium_in_nuclear_city_using_all/)**
+  <br>*Reddit showcase post featuring a nuclear-powered Ficsonium production facility using all worldwide uranium in Satisfactory game*
 
-- **[MORE VFX Shader Techniques ft. Godot - YouTube](https://www.youtube.com/watch?v=pLyp9MR6FVM)**
+##### Entertainment → Gaming → Satisfactory → YouTube Content
 
-- **[Prioritizing Technical Debt as If Time & Money Matters • Adam Tornhill • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=w9YhmMPLQ4U)**
+- **[Route 66 Satisfactory - YouTube](https://www.youtube.com/watch?v=oITuitY-4hw)**
+  <br>*YouTube video about Route 66 themed content in the factory building game Satisfactory*
 
-- **[Understanding Code You Didn't Write // Code Review - YouTube](https://www.youtube.com/watch?v=0AFKxekpbUM)**
+##### Entertainment → Gaming → Speedruns → Gnorp Apologue
+
+- **[(1) (the) Gnorp Apologue Speedrun Mode - 8:28 - YouTube](https://www.youtube.com/watch?v=vKvciQTU3VE)**
+  <br>*YouTube speedrun video showing an 8:28 completion of The Gnorp Apologue game in speedrun mode*
+
+##### Entertainment → Movies → Comedy → Western
+
+- **[A Million Ways to Die in the West - YouTube](https://www.youtube.com/watch?v=yEXO_AbGt9w)**
+  <br>*YouTube video of the comedy western film 'A Million Ways to Die in the West'*
+
+#### Entertainment → Music → Japanese Funk
+
+- **[T O K Y O　1 9 8 0 - Discover The Groovy Sounds of 1980s Japanese Funk! - YouTube](https://www.youtube.com/watch?v=wFUeXvdHkxE)**
+  <br>*YouTube video featuring 1980s Japanese funk music compilation - groovy sounds from Tokyo's funk scene*
 
 ### Entertainment → Videos
 
-- **[(1) (the) Gnorp Apologue Speedrun Mode - 8:28 - YouTube](https://www.youtube.com/watch?v=vKvciQTU3VE)**
-
-- **[(1) Creating a Metroidvania (like Hollow Knight) in Unity | Part 1: Movement and Camera - YouTube](https://www.youtube.com/watch?v=dYcf9_TdEW4)**
-
-- **[2D Practice Shaders in Godot: First Three Shaders - YouTube](https://www.youtube.com/watch?v=GLcf7O-uoIE&list=PLWit4-zdzvqLXDr1GlsFBZ-OJDcWziaP3&index=1)**
-
-- **[3D Movement in Godot in Only 6 Minutes - YouTube](https://www.youtube.com/watch?v=UpF7wm0186Q)**
-
-- **[[Scheme'22] Programming is (should be) fun! - YouTube](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)**
-
-- **[A breakthrough in game dev - SpacetimeDB 1.0 - YouTube](https://www.youtube.com/watch?v=kzDnA_EVhTU)**
-
-- **[A Million Ways to Die in the West - YouTube](https://www.youtube.com/watch?v=yEXO_AbGt9w)**
-
-- **[All 12 useState & useEffect Mistakes Junior React Developers Still Make in 2023 - YouTube](https://www.youtube.com/watch?v=-yIsQPp31L0)**
-
-- **[An introduction to Shader Art Coding - YouTube](https://www.youtube.com/watch?v=f4s1h2YETNY)**
-
-- **[Awesome Godot 4 Bundle ++ The Ultimate World Building Assets Bundle - YouTube](https://www.youtube.com/watch?v=KAoLvsXsLsk)**
-
-- **[Creating a Metroidvania (like Hollow Knight) in Unity | Part 1: Movement and Camera - YouTube](https://www.youtube.com/watch?v=dYcf9_TdEW4&list=PLgXA5L5ma2BvEqzzeLnb7Q_4z8bz_cKmO)**
-
-- **[Cursed Problems in Game Design - YouTube](https://www.youtube.com/watch?v=8uE6-vIi1rQ)**
-
-- **[Data models - using data to create extensible, maintainable games in Godot - YouTube](https://www.youtube.com/watch?v=4vAkTHeoORk)**
-
-- **[FencerDevLog - YouTube](https://www.youtube.com/@FencerDevLog)**
-
-- **[Getting Started With Three.js - YouTube](https://www.youtube.com/watch?v=8jP4xpga6yY)**
-
-- **[Godot + Steam P2P Multiplayer - YouTube](https://www.youtube.com/watch?v=MoRl9kQb6L0)**
-
-- **[Godot Basics: Getting Started with Godot - YouTube](https://www.youtube.com/watch?v=4WHO61piADU&list=PLah6faXAgguP0-ZXQGWlpfIO3jgNFTWJZ)**
-
-- **[Godot Shaders - YouTube](https://www.youtube.com/playlist?list=PLWit4-zdzvqLXDr1GlsFBZ-OJDcWziaP3)**
-
 - **[I Made 700 Monetizable YouTube Shorts for Faceless Channel in 18 MINUTES using AI Automation - YouTube](https://www.youtube.com/watch?v=lqXWVzWkkyc)**
 
-- **[In Living Color: Jim Carrey Supercut Part 1 - YouTube](https://www.youtube.com/watch?v=PobHHXd4Szk)**
-
-- **[Introduction to shaders: Learn the basics! - YouTube](https://www.youtube.com/watch?v=3mfvZ-mdtZQ)**
-
-- **[Learn GODOT 4 Compute Shaders with RAYTRACING!! - YouTube](https://www.youtube.com/watch?v=ueUMr92GQJc)**
-
-- **[Learn Godot from zero with this challenge - YouTube](https://www.youtube.com/watch?v=B9heoGTQLz8)**
-
-- **[Learn PyTorch for deep learning in a day. Literally. - YouTube](https://www.youtube.com/watch?v=Z_ikDlimN6A)**
-
-- **[Learn Three.js while building a 3D game with physics - YouTube](https://www.youtube.com/watch?v=hBiGFpBle7E)**
-
-- **[Learn to Code in UE5 - 1 - Programming Basics - YouTube](https://www.youtube.com/watch?v=cwnmXX7o5qs&list=PLziQlhUd357jEk5y77AHniPa2ywcMExlG&index=2)**
-
-- **[Learn Unreal Engine - Blueprints and C++ - With This Humble Bundle - YouTube](https://www.youtube.com/watch?v=fScyfWKu8rs)**
-
-- **[Make An FPS in Godot 4 - YouTube](https://www.youtube.com/watch?v=N-jh8qc8tJs)**
-
-- **[Make BEAUTIFUL Games - Lighting in Godot - YouTube](https://www.youtube.com/watch?v=aRdiiWpA0AA&t=3s)**
-
-- **[Model Context Protocol (MCP), clearly explained (why it matters) - YouTube](https://www.youtube.com/watch?v=7j_NE6Pjv-E)**
-
-- **[Most SAVAGE Matt Rife Moments! - YouTube](https://www.youtube.com/watch?v=g9HRER65FUo)**
-
-- **[Neural Networks Explained from Scratch using Python - YouTube](https://www.youtube.com/watch?v=9RN2Wr8xvro)**
-
-- **[NEW Procedural Animation In Godot 4.0 - YouTube](https://www.youtube.com/watch?v=G_seJ2Yg1GA)**
-
-- **[OpenGL Course - Create 3D and 2D Graphics With C++ - YouTube](https://www.youtube.com/watch?v=45MIykWJ-C4)**
-
-- **[Programming with LLM Agents in 2025 - YouTube](https://www.youtube.com/watch?v=WKF__cJTxvg)**
-
-- **[Route 66 Satisfactory - YouTube](https://www.youtube.com/watch?v=oITuitY-4hw)**
-
-- **[Shader Basics, Blending & Textures • Shaders for Game Devs [Part 1] - YouTube](https://www.youtube.com/watch?v=kfM-yu0iQBk)**
-
-- **[Simple Character Controller (using Three.js/JavaScript) - YouTube](https://www.youtube.com/watch?v=EkPfhzIbp2g)**
-
-- **[T O K Y O　1 9 8 0 - Discover The Groovy Sounds of 1980s Japanese Funk! - YouTube](https://www.youtube.com/watch?v=wFUeXvdHkxE)**
-
-- **[The ultimate introduction to Godot 4 - YouTube](https://www.youtube.com/watch?v=nAh_Kx5Zh5Q)**
-
-- **[The Unreal Engine Game Framework: From int main() to BeginPlay - YouTube](https://www.youtube.com/watch?v=IaU2Hue-ApI)**
-
-- **[Welcome to Shaderland - An introduction to shaders in Godot - YouTube](https://www.youtube.com/watch?v=nyFzPaWAzeQ&t=562s)**
-
-- **[Why I'm ADDICTED To Filmmaking In Unreal Engine - YouTube](https://www.youtube.com/watch?v=AWkbyPDFUPo)**
-
 - **[Why is THIS the Perfect Homepage? - YouTube](https://www.youtube.com/watch?v=WgXU7XAZYmQ)**
-
-- **[Writing async/await from scratch in C# with Stephen Toub - YouTube](https://www.youtube.com/watch?v=R-z2Hv-7nxk)**
-
-- **[Your First 2D GAME From Zero with GODOT 4! **Vampire Survivor Style** - YouTube](https://www.youtube.com/watch?v=GwCiGixlqiU)**
-
-- **[🚀 TDD, Where Did It All Go Wrong (Ian Cooper) - YouTube](https://www.youtube.com/watch?v=EZ05e7EMOLM)**
 
 ### Finance → Personal Finance
 
 - **[Hyundai Motor Finance](https://www.hmfusa.com/dashboard)**
+
+###### Gaming → Satisfactory → Tools → Calculators → Blueprints
+
+- **[Hornslet 1.0 Global Rail Network / Megaprints / [SCIM] Satisfactory - Calculator | Gaming Tool/Wiki/Database to empower the players.](https://satisfactory-calculator.com/en/megaprints/index/details/id/1584/name/Hornslet+1.0+Global+Rail+Network)**
+  <br>*Satisfactory Calculator megaprint for Hornslet 1.0 Global Rail Network blueprint - a comprehensive rail transportation system design for the factory building game*
 
 ### General → Uncategorized
 
@@ -577,8 +1356,6 @@ A curated collection of useful development resources, tools, and references orga
 - **[dimensional-analysis.pdf](https://hapax.github.io/assets/dimensional-analysis.pdf)**
 
 - **[Doctrine: PHP Open Source Project](https://www.doctrine-project.org/index.html)**
-
-- **[Download Godot 3D VFX & Effects collection by BUKKBEEK - itch.io](https://bukkbeek.itch.io/effectblocks/download/J3YrAeDq7fA7s3bJqSWoLTwvk234bgU7UnJgHjzb)**
 
 - **[Early Access Patch Notes - Content Update 0.2.0 -- Path of Exile 2: Dawn of the Hunt - Forum - Path of Exile](https://www.pathofexile.com/forum/view-thread/3740562)**
 
@@ -709,6 +1486,9 @@ A curated collection of useful development resources, tools, and references orga
 - **[Minion Army Lich Build Guide Dawn of the Hunt - Path of Exile 2](https://maxroll.gg/poe2/build-guides/minion-army-lich-build-guide)**
 
 - **[MySQL Server | Smithery](https://smithery.ai/server/mysql-mcp-server)**
+
+- **[Nodes and Scenes — Godot Engine (stable) documentation in English](https://docs.godotengine.org/en/stable/getting_started/step_by_step/nodes_and_scenes.html#nodes)**
+  <br>*default categorization: General/Uncategorized*
 
 - **[Notes on implementing dark mode — brandur.org](https://brandur.org/fragments/dark-mode-notes)**
 
@@ -880,53 +1660,55 @@ A curated collection of useful development resources, tools, and references orga
 
 - **[Writing value objects in PHP - DEV Community](https://dev.to/ianrodrigues/writing-value-objects-in-php-4acg)**
 
+###### Learning → 3D Graphics → Blender → Geometry Nodes → Course Materials
+
+- **[Blender-4---Geometry-Nodes-for-Beginners/Extra at main · PacktPublishing/Blender-4---Geometry-Nodes-for-Beginners](https://github.com/PacktPublishing/Blender-4---Geometry-Nodes-for-Beginners/tree/main/Extra)**
+  <br>*GitHub repository containing extra materials for PacktPublishing's Blender 4 Geometry Nodes for Beginners course*
+
+- **[PacktPublishing/Blender-4---Geometry-Nodes-for-Beginners: Blender 4 - Geometry Nodes for Beginners, by Packt Publishing](https://github.com/PacktPublishing/Blender-4---Geometry-Nodes-for-Beginners)**
+  <br>*Packt Publishing's official GitHub repository for a Blender 4 Geometry Nodes beginner course, containing project files and learning resources*
+
 ### Learning → Education
 
-- **[ASP.NET Core Blazor | Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/core/blazor/?WT.mc_id=dotnet-35129-website&view=aspnetcore-7.0)**
+- **[Purchased Courses – Zenva Academy](https://academy.zenva.com/purchased-courses/)**
+  <br>*default categorization: Learning/Education*
 
-- **[ASP.NET Core fundamentals overview | Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-7.0&tabs=windows)**
+##### Learning → Game Development → Godot → Tutorials
 
-- **[Component Tag Helper in ASP.NET Core | Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/built-in/component-tag-helper?view=aspnetcore-8.0)**
+- **[Learn Godot from zero with this challenge - YouTube](https://www.youtube.com/watch?v=B9heoGTQLz8)**
+  <br>*YouTube tutorial for learning Godot game engine from beginner level through a structured challenge-based approach*
 
-- **[COURSE PRO](https://mammothclub.com/student-dash/courses)**
+##### Learning → Online Education → Game Development → Godot
+
+- **[Godot 4 Game Development Mini-Degree – Zenva Academy](https://academy.zenva.com/product/godot-game-development-mini-degree/)**
+  <br>*Comprehensive Godot 4 game development course from Zenva Academy covering complete game development skills*
+
+###### Learning → Online Education → Game Development → Godot → Survival Games
 
 - **[Course: How to Create a 3D Survival Game in Godot 4.3 with GDScript | Udemy](https://www.udemy.com/course/godot-survival-game/learn/lecture/42640952#overview)**
+  <br>*Udemy course teaching 3D survival game development in Godot 4.3 using GDScript*
 
-- **[CS 6120: The Self-Guided Course](https://www.cs.cornell.edu/courses/cs6120/2023fa/self-guided/)**
-
-- **[Kaggle: Your Machine Learning and Data Science Community](https://www.kaggle.com/)**
-
-- **[Learn Game Development | Godot Tutorials](https://godottutorials.com/)**
-
-- **[Learn how you can use GraphQL in .NET Core and C#](https://softchris.github.io/pages/dotnet-graphql.html#resources)**
-
-- **[Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/)**
-
-- **[Learn React Native Online at React Native School](https://www.reactnativeschool.com/)**
-
-- **[Learn SOLID design principles using Java - DEV Community](https://dev.to/fialhorenato/learn-solid-design-principles-using-java-m68?utm_source=dormosheio&utm_campaign=dormosheio)**
+###### Learning → Online Education → Game Development → Unity → Tutorials
 
 - **[Learn To Create A Vampire Survivors Style Game in Unity & C# | Udemy](https://www.udemy.com/course/unity-vampire-survival/?utm_campaign=2024-11-28&utm_content=promo&utm_medium=3570805&utm_source=email-sendgrid&utm_term=15411734&couponCode=BFGAMEDEV24)**
+  <br>*Udemy course teaching how to create a Vampire Survivors style game using Unity and C# programming*
 
-- **[LearnOpenGL - Hello Triangle](https://learnopengl.com/Getting-started/Hello-Triangle)**
+#### Learning → Online Education → Professional Development
 
-- **[Productivity tips for .NET developers - Visual Studio (Windows) | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/ide/csharp-developer-productivity?view=vs-2022&utm_source=VisualStudio&utm_medium=aspnet-getstarted&utm_campaign=VisualStudio)**
+- **[COURSE PRO](https://mammothclub.com/student-dash/courses)**
+  <br>*Student dashboard for professional development courses on Mammoth Club learning platform*
 
-- **[Purchased Courses – Zenva Academy](https://academy.zenva.com/purchased-courses/)**
+##### Learning → Programming → Machine Learning → Books
 
-- **[Quickstart: Visual Studio Tools for Unreal Engine | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/gamedev/unreal/get-started/vs-tools-unreal-quickstart)**
+- **[Humble Tech Book Bundle: Machine Learning, AI, and Bots by O'Reilly 2025 (pay what you want and help charity)](https://www.humblebundle.com/books/machine-learning-ai-and-bots-oreilly-2025-books?mcID=102:6830b7ef62607af67f099400:ot:56e85f1f733462ca89a0770d:1&linkID=6830d1e6014419cd4a01f6c0&utm_campaign=2025_05_26_machinelearningaiandbotsoreilly2025_bookbundle&utm_source=Humble+Bundle+Newsletter&utm_medium=email)**
+  <br>*Humble Bundle collection of O'Reilly machine learning, AI, and bot development books for 2025 - charity bundle with pay-what-you-want pricing*
 
-- **[Set up a Dev Drive on Windows 11 | Microsoft Learn](https://learn.microsoft.com/en-us/windows/dev-drive/)**
+#### Learning → Tutorials → General
 
-- **[Tuple types - C# reference - C# | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples)**
-
-- **[Tuple types - C# reference - C# | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples#code-try-2)**
-
-- **[What's new in .NET 8 | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8)**
+- **[Kaggle: Your Machine Learning and Data Science Community](https://www.kaggle.com/)**
+  <br>*pattern categorization: Learning/Tutorials/General*
 
 ### Learning → Video Tutorials
-
-- **[[Godot Tutorial] Basic Breakout! [P1] - YouTube](https://www.youtube.com/watch?v=ntYjl_obUDo&list=PL9FzW-m48fn1iR6WL4mjXtGi8P4TaPIAp)**
 
 - **[Blender 4.1 Beginner Tutorial - Part 1 (New) - YouTube](https://www.youtube.com/watch?v=98qKfdJRzr0)**
 
@@ -934,27 +1716,7 @@ A curated collection of useful development resources, tools, and references orga
 
 - **[Blender Modeling Introduction: How to create 3D objects - YouTube](https://www.youtube.com/watch?v=EsufneMOvWA)**
 
-- **[Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git - YouTube](https://www.youtube.com/watch?v=Uszj_k0DGsg)**
-
-- **[Godot 4: Raymarching, part 1 (tutorial) - YouTube](https://www.youtube.com/watch?v=EkiKPqGgIt8)**
-
-- **[How to Create a Character Sheet in Godot 3.2 | Player Development Series - YouTube](https://www.youtube.com/watch?v=0TZ2U8eUskA&list=PLZ-54sd-DMALS7u-0x5UwbKl7VDWcabo2)**
-
-- **[How to Create an RPG in Godot 4 (step by step) - YouTube](https://www.youtube.com/watch?v=pBoXqW4RykE)**
-
-- **[How to Make a Functional Game Menu in Godot 3.2 | Godot UI Tutorial - YouTube](https://www.youtube.com/watch?v=p1l0M8u5EVc)**
-
 - **[How to make Game Models (For Beginners) from Start to Finish (blender) - YouTube](https://www.youtube.com/watch?v=2Kzo68liq78)**
-
-- **[How to Make Your First Game in Unreal Engine 5 in 2024 - Full Course - YouTube](https://www.youtube.com/watch?v=zt13VcimeyI)**
-
-- **[How to Use the AnimationTree Node in Godot | Godot Animation Series - YouTube](https://www.youtube.com/watch?v=KAZX4qfD06E)**
-
-- **[Pixel Platformer Tutorial / Code Along P4 (TileMaps) - Godot Engine - YouTube](https://www.youtube.com/watch?v=-9wDi3Y08GM)**
-
-- **[Start Your Game Creation Journey Today! (Godot beginner tutorial) - YouTube](https://www.youtube.com/watch?v=5V9f3MT86M8)**
-
-- **[Three.js Tutorial For Absolute Beginners - YouTube](https://www.youtube.com/watch?v=xJAfLdUgdc4)**
 
 ### Lifestyle → Food & Recipes
 
@@ -968,21 +1730,10 @@ A curated collection of useful development resources, tools, and references orga
 
 - **[Fundraiser by Jessica Pegg : Support Jeff's Medical Journey and Recovery](https://www.gofundme.com/f/support-jeffs-medical-journey-and-recovery?lang=en_US&utm_campaign=man_sharesheet_dash&utm_content=amp13_c&utm_medium=customer&utm_source=facebook&attribution_id=sl%3Aa214241c-8158-446f-b3ca-10732b56787f&fbclid=IwZXh0bgNhZW0CMTEAAR3Yw-aExkLfuPyepmSJGCGvO9iweJtAmrj6GOa5D8zrhtgHvqxnhMuTZCc_aem_gVPmNWBTqOfLyCeKe-_rtA)**
 
-### News → General
-
-- **[10 — Hats And Rust](https://gnorp.dev/news/10-Hats-And-Rust/#:~:text=Writing%20a%20game%20in%20Rust,one%20for%20a%20long%20time.)**
-
-- **[Endgame - Hexblast Infernalist Demon Form - PoE 2 Witch Build Guide](https://mobalytics.gg/poe-2/profile/bbca5af1-7d78-4e0c-8eb1-f7531ff557f8/builds/fdc301ca-f6c3-44a3-b377-e6d2e6d6a70c?weaponSet=set1)**
+#### News → Technology → Developer News
 
 - **[Hacker News](https://news.ycombinator.com/)**
-
-- **[The React TypeScript Cheatsheet – How To Set Up Types on Hooks](https://www.freecodecamp.org/news/react-typescript-how-to-set-up-types-on-hooks/)**
-
-- **[Var, Let, and Const – What's the Difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)**
-
-### News → Technology
-
-- **[Humble Tech Book Bundle: Machine Learning, AI, and Bots by O'Reilly 2025 (pay what you want and help charity)](https://www.humblebundle.com/books/machine-learning-ai-and-bots-oreilly-2025-books?mcID=102:6830b7ef62607af67f099400:ot:56e85f1f733462ca89a0770d:1&linkID=6830d1e6014419cd4a01f6c0&utm_campaign=2025_05_26_machinelearningaiandbotsoreilly2025_bookbundle&utm_source=Humble+Bundle+Newsletter&utm_medium=email)**
+  <br>*Hacker News is a social news website focusing on computer science and entrepreneurship, popular among developers and tech professionals for sharing and discussing technology-related content.*
 
 ### Reading → Blogs
 
@@ -1078,23 +1829,19 @@ A curated collection of useful development resources, tools, and references orga
 
 - **[React Native Memory profiling (JSC vs V8 vs Hermes) | by Bhaskar Gyan Vardhan | Walmart Global Tech Blog | Medium](https://medium.com/walmartglobaltech/react-native-memory-profiling-jsc-vs-v8-vs-hermes-1626949a653b#:~:text=However%2C%20react%2Dnative%2Dv8,and%20most%20importantly%20garbage%20collection.)**
 
-### Reference → Wikipedia
+#### Reference → Mathematics → Theorems
 
 - **[Category:Named Theorems - ProofWiki](https://proofwiki.org/wiki/Category:Named_Theorems)**
+  <br>*ProofWiki category page listing named mathematical theorems with proofs and explanations*
+
+### Reference → Wikipedia
 
 - **[Dedicated servers - Official Satisfactory Wiki](https://satisfactory.wiki.gg/wiki/Dedicated_servers#Satisfactory_MCP_Server)**
 
-### Shopping → General
+##### Shopping → E-commerce → eBay → Orders
 
 - **[Order details | eBay](https://vod.ebay.com/vod/FetchOrderDetails?transId=10076103591507&itemId=316540882669&qu=1&gu=1&ul_noapp=true#/)**
-
-- **[What is Stable Diffusion? - Stable Diffusion AI Explained - AWS](https://aws.amazon.com/what-is/stable-diffusion/)**
-
-### Social → Forums
-
-- **[[Showcase] Ficsonium in Nuclear City using *all* worldwide uranium producing 700 GW : r/satisfactory](https://www.reddit.com/r/satisfactory/comments/1kz444r/showcase_ficsonium_in_nuclear_city_using_all/)**
-
-- **[Restart Claude Code for reduce tokens? : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1lcn780/restart_claude_code_for_reduce_tokens/)**
+  <br>*eBay order details page for viewing purchase transaction information and item details*
 
 ### Tools → Software
 
@@ -1127,6 +1874,9 @@ A curated collection of useful development resources, tools, and references orga
 - **[How to Generate a JWT Token using .NET 6 - Applied Information Sciences](https://www.ais.com/how-to-generate-a-jwt-token-using-net-6/)**
 
 - **[Importing a Component | Create React App](https://create-react-app.dev/docs/importing-a-component)**
+
+- **[Install Entity Framework 6 for Code-First Approach](https://www.entityframeworktutorial.net/code-first/setup-entity-framework-code-first-environment.aspx)**
+  <br>*default categorization: Tools/Software*
 
 - **[Managing difficult software engineers](https://vadimkravcenko.com/shorts/managing-bad-engineers/)**
 
@@ -1275,6 +2025,9 @@ A curated collection of useful development resources, tools, and references orga
 - **[PoE2 Trade - Path of Exile](https://www.pathofexile.com/trade2/search/poe2/Standard)**
   <br>*Fallback categorization for: PoE2 Trade - Path of Exile*
 
+- **[Sample CI GitHub Action file for .NET 8](https://gist.github.com/guibranco/761d06bab71bf9fde5453365473825ae)**
+  <br>*GitHub Gist containing a sample CI/CD workflow configuration file for .NET 8 applications using GitHub Actions*
+
 - **[Scorpius - Attribute Stacking Leveling Build (LOW BUDGET) - PoE 2 Character Planner](https://maxroll.gg/poe2/planner/c4non057)**
   <br>*Fallback categorization for: Scorpius - Attribute Stacking Leveling Build (LOW BUDGET) - PoE 2 Character Planner*
 
@@ -1294,47 +2047,14 @@ A curated collection of useful development resources, tools, and references orga
 
 ### Work → Business
 
-- **[5+ Github Actions to Automate Your React Native Workflow](https://elazizi.com/posts/5-github-actions-to-automate-your-react-native-workflow/)**
-
-- **[A quick introduction to workgraphs – Interplay of Light](https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs/)**
-
-- **[After 6 months of daily AI pair programming, here's what actually works (and what's just hype) : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1l1uea1/after_6_months_of_daily_ai_pair_programming_heres/)**
-
-- **[C# Artificial Intelligence (AI) Programming: A Basic Object Oriented (OOP) Framework for Neural Networks](https://www.c-sharpcorner.com/article/C-Sharp-artificial-intelligence-ai-programming-a-basic-object/)**
-
-- **[Entity Framework 6](https://www.entityframeworktutorial.net/entityframework6/introduction.aspx)**
-
-- **[Entity Framework Core Tutorials](https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx)**
-
-- **[Fundamentals of Building A React Native App - React Native Fundamentals Workshop](https://www.reactnativeschool.com/react-native-fundamentals-workshop/)**
-
-- **[Getting MCP Server Working with Claude Desktop in WSL - Scott Spence](https://scottspence.com/posts/getting-mcp-server-working-with-claude-desktop-in-wsl)**
-
-- **[Github Action workflows | A list of all the Github Action workflows that come with the starter and how to use them.](https://starter.obytes.com/ci-cd/workflows-references/#%EF%B8%8F-new-app-version)**
-
 - **[Global Rail Network 4.0 for Satisfactory v1.0 / Megaprints / [SCIM] Satisfactory - Calculator | Gaming Tool/Wiki/Database to empower the players.](https://satisfactory-calculator.com/en/megaprints/index/details/id/1260/name/Global+Rail+Network+4.0+for+Satisfactory+v1.0)**
-
-- **[Hornslet 1.0 Global Rail Network / Megaprints / [SCIM] Satisfactory - Calculator | Gaming Tool/Wiki/Database to empower the players.](https://satisfactory-calculator.com/en/megaprints/index/details/id/1584/name/Hornslet+1.0+Global+Rail+Network)**
-
-- **[How Convex Works](https://stack.convex.dev/how-convex-works)**
-
-- **[How to work with intervals in React hooks | by Florian | ITNEXT](https://itnext.io/how-to-work-with-intervals-in-react-hooks-f29892d650f2)**
-
-- **[Install Entity Framework 6 for Code-First Approach](https://www.entityframeworktutorial.net/code-first/setup-entity-framework-code-first-environment.aspx)**
-
-- **[Is Code First right way how to write modern enterprise applications? - Microsoft Community Hub](https://techcommunity.microsoft.com/t5/tech-community-ideas/is-code-first-right-way-how-to-write-modern-enterprise/idi-p/2401008)**
-
-- **[Learn Entity Framework Core - EF Core Tutorial](https://www.learnentityframeworkcore.com/)**
 
 - **[Let’s talk about how Mihoyo’s monetization works – MoonBear Musings](https://moonbearmusings.com/lets-talk-about-how-mihoyos-monetization-works/)**
 
-- **[Migrations in Entity Framework Core](https://www.entityframeworktutorial.net/efcore/entity-framework-core-migration.aspx)**
-
-- **[Pico CSS • Minimal CSS Framework for semantic HTML](https://picocss.com/)**
+#### Work → Payroll → Employee Portal
 
 - **[QuickBooks Workforce](https://workforce.intuit.com/app/payroll-employee-portal-ui/portal/paychecks)**
-
-- **[Vue.js - The Progressive JavaScript Framework | Vue.js](https://vuejs.org/)**
+  <br>*QuickBooks Workforce employee portal for accessing paychecks and payroll information*
 
 ---
 
